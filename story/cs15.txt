@@ -1,0 +1,72 @@
+locs: elders_house
+positions: 0 160 144 64
+actions
+text: old_F - Welcome back. We are all very proud that you have returned.
+text: old_M - I assume that each of you found a Gem?
+text: ranger_M - That is correct.
+text: old_M - Wonderful. Let us see each of your Gems.
+text: monk_F - Here! Look at this!
+text: old_F - Ever the quick Melhay. I see that the day has brought a new sense of adventure.
+text: old_F - I am sure that the freedom of exploring and thrill of finding Gems has excited your young spirits.
+text: old_M - Yes. Well said. Melhay, please let me take a look at your Gem.
+text: - [ Melhay hands Village Patriarch red hued Gem ]
+text: old_M - Ah, yes. A fire Gem. Those that wield this Gem have the ability to provide warmth.
+text: old_M - It is said that those who train with a Fire Gem gain strength.
+text: old_M - Hmmm.
+text: old_M - Ahhh.
+text: old_M - Hmmm.
+text: monk_F - I knew it! It's so rare that you're having a hard time figuring out it's level.
+text: old_M - Ohhh, hmmm, what? No, not at all. I was remembering my Trial many, many years ago. I returned with a Fire Gem. Here.
+add_equipment: Fire Gem I
+text: - [ You have received a Fire Gem ]
+text: old_M - This is a Fire Gem I. Rare in these parts, but very common.
+text: monk_F - ...!
+text: old_F - A speechless Melhay. Fret not child. You may continue to build your skills with this Gem. If you come accross a more powerful Fire Gem you will be able to use your skills with it.
+text: old_F - Let's move on. Myhal please show us your Gem.
+text: - [ Myhal hands Village Patriarch two yellow hued Gems ]
+text: old_M - Myhal has brought two Gems. Always going above and beyond what is required.
+text: monk_F - (...)
+text: old_M - Let me see. Hmmm.
+text: old_M - And now let me examine the second Gem. Hmmm.
+text: old_M - It seems that you found two Earth Gem I. Here they are.
+add_equipment: Earth Gem I
+add_equipment: Earth Gem I
+text: - [ You have received an Earth Gem I x2]
+text: old_M - Earth Gems are common throughout the world. Those that use Earth Gems give vitalty to other living entities.
+text: old_M - The more you train with this Gem, the stronger your endurance and vitality becomes.
+text: old_F - And finally Kralean.
+text: - [ Kralean hands Village Patriarch a clear Gem ]
+text: old_M - And what do we have here.
+text: old_M - This is... strange.
+text: old_F - Please let me take a look.
+text: old_F - Oh. Hmmm.
+text: monk_F - If Kraelan failed we can always go back.
+text: old_F - No. This is a Gem. However, I have never seen a Gem like this before.
+text: old_M - It is clear that there is magic emanating from this Gem. But I cannot say what type of magic.
+text: old_F - Yes, the magic is very faint, yet, I feel a strong emotional connection. That is the extent I can tell.
+text: old_M - Yes. A very accurate assessment. Forgive me child but we cannot aid you anymore. You see, this is a Gem. But, it is not a magical Gem.
+text: old_M - At least not any magic that we know.
+text: warrior_M - So there's magic?
+text: old_F - Yes, and no. The creating of this Gem could not have happened without magic. And nearly all magic on our planet originated during the Age of the Light.
+text: old_F - A time when a lot of energy was transferred to our planet from our sister world.
+text: old_F - Since the Age of Light, very few transfer events have occurred, the last near the end of the Leeper War.
+text: old_F - That was long ago, and only the libraries in Vanahal hold those tales. But let's not talk about antient tales today.
+text: old_F - Let's focus on the question at hand. That Gem.
+text: old_M - You three have the fortune of youth on your side. And it is for that reason we suggest that you use this time to seek answers.
+text: - [ You receive a clear Gem ]
+text: old_F - We long for a time that the young stay and help our village grow. However, without seeking answers to questions our village will eventually suffer.
+text: old_M - The only way to ensure the success of our village is to continuously bring knowledge of how the world works back.
+text: old_M - But do not run off just yet. Rest first. We still have our celebration tomorrow.
+text: old_F - Ah, the conclusion of the Trial. We shall be greated by the great Prince Rasamus.
+text: old_M - I remember when I was just a young lad and Prince Rasamus came to visit. At that Trial day he displayed his speed and skill with a sword during a buck hunt.
+text: old_F - He has been more reserved for many years now. I do not expect a show.
+text: monk_F - How could he slow down? Prince Rasamus is a Generational.
+text: old_F - We do not ask powerful men foolish questions. Besides, we do not need to slay a buck for show.
+text: old_M - Children. If it has not been said all three of you have sucessfully completed your Trial.
+text: old_M - Children. Today has been a long day. You should all rest before the visit tomorrow conclusing the Trial.
+text: old_F - Congratulations you three. It is a shame that Heiral has selected not to take part in the Trial.
+text: old_F - He told us his intent to leave this village and seek fortune elsewhere.
+text: old_M - May he find what is missing.
+text: old_F - We shall talk again tomorrow children.
+fade: True
+inc: 1

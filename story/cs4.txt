@@ -1,0 +1,15 @@
+locs: cave_no_gem - cave_no_gem - cave_no_gem - cave_no_gem
+positions: 64 32 32 64 | 64 756 32 32 | 512 1488 32 64 | 1536 998 32 64
+show: White_stone_32 64 32 - Pickaxe_32 64 756 - Red_stone_32 512 1488 - Yellow_stone_32 1536 998
+actions
+text: ranger_M - We may need to find the pickaxe before we mine this gem.
+move: D - 1
+actions
+text: warrior_M - Looks like we found the pickaxe.  Let's look for the Gems.
+inc: 1
+actions
+text: ranger_M - We may need to find the pickaxe before we mine this gem.
+move: D - 1
+actions
+text: ranger_M - We may need to find the pickaxe before we mine this gem.
+move: D - 1

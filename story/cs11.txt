@@ -1,0 +1,11 @@
+locs: cave_no_gem
+positions: 98 632 96 64
+actions 
+make: berserk_M  - 116, 658 - U
+music: Heiral
+text: berserk_M - Hrmph. Keep your dumb rock. Doesn't look like any Gem I've ever seen.
+text: monk_F - I look forward to watching you be the first person in 100 years to fail at their Trial.
+text: berserk_M - Haha. I don't care about the Trial or that village. I don't plan to go back. There's a whole world out there and am not going to stay in a small village my entire life. I was born for destiny.
+text: berserk_M - Enjoy your pathetic lives, losers.
+fade: True
+inc: 1

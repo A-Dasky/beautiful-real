@@ -1,0 +1,6 @@
+locs: cave_no_gem
+positions: 98 632 96 64
+actions
+text: monk_F - Ugh! I can't stand him!
+text: ranger_M - Right. Regardless we should head back.
+inc: 1

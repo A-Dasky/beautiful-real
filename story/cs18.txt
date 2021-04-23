@@ -1,0 +1,6 @@
+locs: home_village
+positions: 420 432 96 32
+actions
+move: D - 7
+fade: True
+inc: 1

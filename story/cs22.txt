@@ -1,0 +1,16 @@
+locs: home_village
+positions: 420 644 96 32
+actions
+make: old_M - 224, 674 - D
+make: old_F - 288, 674 - D
+make: townfolk2_M - 160, 612 - D
+make: townfolk1_M - 352, 612 - D
+make: townfolk2_F - 288, 612 - D
+make: ranger_M - 500, 612 - D
+make: monk_F - 550, 612 - D
+text: old_M - What an exciting Trial day. This is the first time in over one hundred years that a new member of King Tolen's royal family joined us.
+text: old_M - How exciting.
+text: old_F - Children. This completes the Trial. You three should be proud.
+text: old_F - There's a long road ahead, go prepared and remember you're always welcomed here.
+fade: True
+inc: 1

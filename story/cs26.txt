@@ -1,0 +1,60 @@
+locs: quiet_forest
+positions: 420 644 96 32
+actions
+move: R - 0
+make: ranger_M - 500, 612 - L
+make: monk_F - 550, 612 - L
+# CS on entry
+text: ranger_M - This looks like a good place to find someone that can take us across the sea.
+text: monk_F - I still say we look for a pirate!
+text: ranger_M - A respectable captain with a boat would do just fine.
+# CS When they talk to the Captain
+text: ranger_M - Excuse me, we are looking for a ...
+text: captain_M - Oy! I be enjoy'n me drink, boy!
+text: ranger_M - Right. Well, you see ...
+text: captain_M - Do yer ears not work, boy? Me drink awaits.
+text: monk_F - (Myhal, let me talk to him.)
+text: monk_F - Hey! We need passage to Port d'Nols!
+text: captain_M - Oy, do ya lass? What makes ye think I have a ship?
+text: monk_F - You probably don't, but your captain does!
+text: captain_M - What?!
+text: monk_F - You're not rugged enough to lead a crew over dangerous waters. You probably just scrub the poop deck!
+text: ranger_M - (Poop deck?)
+text: warrior_M - ( ? )
+text: captain_M - Haha! Ye got spunk, lass. I give ye that. So what matter be so important that me and me drink stay apart?
+text: ranger_M - Right. Well you see ...
+text: captain_M - Not you, I ain't comfortable with ye thinking types. You, quiet one, tell me but be brief.
+text: warrior_M - We need safe passage across the sea to Port d'Nols to find out more about a gem.
+text: captain_M - O, a gem ye say? I've seen me shape and size gem this world has to offer.
+text: - [ You hand the clear Gem over ]
+text: captain_M - Ain't no gem.
+text: warrior_M - It has magic.
+text: captain_M - O, what type of magic?
+text: warrior_M - I ... I don't know, but I can feel...
+text: captain_M - A gem with no magic ain't no gem. It be a rock. A clear rock.
+text: warrior_M - I know there's magic in it. When I hold it I hear things, see things.
+text: captain_M - Cursed rock then.
+text: warrior_M - This is more than a rock. I know it is and I need to find someone who can help, because it seems that you cannot.
+text: captain_M - Look mate, I ain't a Gem expert, and I seen me a lot of Gems. Me mind would remember if I seen a gem like this before.
+text: warrior_M - It doesn't matter. We just need to get to Port d'Nols.
+text: captain_M - Ah, do ye now. 100,000 gold.
+text: monk_F - What?!
+text: captain_M - Sorry lass, cost gold money to get a crew on short notice, and me need me share.
+text: ranger_M - Right. Well that seems high.
+text: captain_M - Oh, does it now boy? Ye be a captain? Travel the seas do ye?
+text: ranger_M - No. However, I...
+text: captain_M - Ye don't know. None ye know.
+text: warrior_M - How about this. You're so confident that this isn't a Gem.
+text: captain_M - Rock.
+text: warrior_M - Well, let's wager on it. If the Gem expert says it's a Gem our passage is free.
+text: captain_M - What be in it for me?
+text: warrior_M - If he say's it's a rock the three of us will crew your boat, for free, for two seasons.
+text: monk_F - What?!
+text: ranger_M - !
+text: captain_M - Eight.
+text: warrior_M - Four seasons. Do we have ourselves a deal?
+text: captain_M - Looks like me be getting a new crew.
+text: - [ Captain finishes his drink ]
+text: captain_M - Me boats in the dock. Meet there when ye be ready to go.
+fade: True
+inc: 1

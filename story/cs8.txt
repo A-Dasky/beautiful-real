@@ -1,0 +1,17 @@
+locs: cave_no_gem
+positions: 64 32 32 64
+actions
+text: ranger_M - Kralean, are you okay? You froze then asked where we are.
+text: monk_F - You hearing things? Maybe you needed that extra sleep today...
+text: warrior_M - No, I... Something odd just happened. I picked up this Gem and I heard voices, faint distant voices.
+text: monk_F - Whoa. Strange. What were they saying?
+text: warrior_M - I couldn't quite tell. Sounded like there was a struggle and people were in danger.
+text: ranger_M - Hmmm. And this happened when you touched the gem?
+text: warrior_M - Yeah. I picked it up and that's when it began.
+text: ranger_M - Hmmm.
+text: monk_F - Out with it already Myhal. What are you thinking?
+text: ranger_M - ...
+text: ranger_M - Well that's just it. I have never heard or read of something like this happening.
+text: warrior_M - Maybe the village elders can help? We have our three Gems.
+text: ranger_M - Right. Let's head back and see what they have to say.
+inc: 1

@@ -1,0 +1,7 @@
+locs: elders_house
+positions: 0 160 144 64
+actions
+# CS on going near docks
+text: captain_M - Took ye long enough! Lets be off.
+fade: True
+inc: 1

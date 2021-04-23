@@ -1,0 +1,14 @@
+locs: cave_no_gem - cave_no_gem - cave_no_gem
+positions: 64 32 32 64 | 512 1488 32 64 | 1536 998 32 64
+show: White_stone_32 64 32 - Red_stone_32 512 1488 - Yellow_stone_32 1536 998
+actions
+text: ranger_M - There were good mining spots back the way we came.  We should examine those first before going any deeper.
+move: D - 1
+actions
+text: monk_F - Let me see that pickaxe!
+sound: pickaxe
+text: monk_F - Whoohoo!! Found me a nice shiny gem. This things at least a Grade three! I'm holding onto this in my pocket until we get back!
+inc: 1
+actions
+text: ranger_M - There were good mining spots back the way we came.  We should examine those first before going any deeper.
+move: D - 1

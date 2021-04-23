@@ -1,0 +1,21 @@
+locs: BLANK
+positions: -32 -32 32 32
+actions
+cs: ad_throne_room 168 0
+make: soldier_M - 488, 352 - R
+make: soldier_M - 488, 416 - R
+make: soldier_M - 488, 480 - R
+make: soldier_M - 680, 352 - L
+make: soldier_M - 680, 416 - L
+make: soldier_M - 680, 480 - L
+make: king_M - 584, 224 - D
+make: princess_F - 552, 320 - U
+text: king_M - Evlee forgive your brother. These long years has been lonely for him. He is but one of few surviving Generationals.
+text: king_M - I can recall the long history before the Leeper War. Life, all life, is precious.  Generationals or not.
+text: king_M - When you lose a sense of commonality with others your mind can play tricks on you. It is only harder for those born with gifts that most do not share.
+text: king_M - I have and will do more to change his spirit. That is half the purpose of sending him with you on the annual tour.
+text: king_M - That and for your protection. Rasamus' arrogance is backed by his powers and should prove vital in the event he's needed.
+text: king_M - Even after all these years there are still some that resent us. Be careful. Now go, your caravan leaves soon.
+fade: True
+zone: elders_house 144 256
+inc: 1

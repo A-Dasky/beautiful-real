@@ -1,0 +1,33 @@
+locs: quiet_forest
+positions: 420 644 96 32
+actions
+move: R - 0
+make: ranger_M - 500, 612 - L
+make: monk_F - 550, 612 - L
+text: king_M - I am glad to welcome you back after your journey. Please, tell me what you have learned from your most recent tour of our kingdom.
+text: bard_M - The villagers grow their crops, tend to their land, and age. There was nothing of importance to report from this trip.
+text: king_M - Rasamus, each year I ask you to partake on this tour, and each year I hope that you come back with a new perspective. Each year I am disapointed.
+text: bard_M - I do not understand why you send me. My talents would better serve this kingdom to train our troups at the border. I have heard ... 
+text: king_M - I send you because I am needed here. A kingdom cannot rely solely on the strength of its leader. A leader must listen and understand the people.
+text: king_M - Failure to understand, to listen, resulted in the Leeper Uprising. Our kind were not the only to suffer. The masses starved, famine engulfed the lands.
+text: king_M - Rasamus, you were young and I did what I could to shield you from those horrors. But alas, the events of such a dark time are not important at present. New troubles are on our horizon.
+text: bard_M - Troubles? I did not hear of any disturbances.
+text: king_M - I have reports of growing armys in the eastern states. In addition, recently our lines of communication with our neighbors to the north have grown cold.
+text: king_M - I do not know what spurred these changes, but they are distrubing.
+text: bard_M - What can I do?
+text: king_M - Wait, listen, and observe. I have requested a meeting with leaders from both Hardridan and Kavanso.
+text: king_M - While you were away I called our reserves into action. We shall not sit idly by and wait while our advisories build strength.
+text: bard_M - ... As General of the Reserves I feel that I should have been informed.
+text: king_M - I am informing you now. Had I told you prior to the tour, you would not have proceeded. That would have sent off alarm bells.
+text: king_M - By not telling you, we are in a better position to defend ourselves. Enough talk of this matter. Is there anything else you wish to share from the tour?
+text: bard_M - No.
+text: king_M - Then I dismi...
+text: princess_F - About the tour, I do have a question.
+text: king_M - Yes? You may ask freely.
+text: princess_F - Have pink leaves ever grown on the sakura trees? We visited all ends of our kingdom, but the only sakura trees are near Castle Addinral.
+text: king_M - Pink leaves? Our sakura trees have not grown pink leaves since the war. Where did you see this?
+text: princess_F - I did not see it Father. I ... I dreamt it.
+text: king_M - To dream such sweet dreams. You are very lucky. I would wait a millenia to see the sakura forest in full blossom.
+text: king_M - I think we've spent enough time talking about the past and the future. Now we must focus on the present. Go prepare for our guest. Their words dictate our next move.
+fade: True
+inc: 1

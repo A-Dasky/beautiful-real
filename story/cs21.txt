@@ -1,0 +1,21 @@
+locs: home_village
+positions: 420 644 96 32
+actions
+make: soldier_M - 160, 800 - U
+make: soldier_M - 224, 800 - U
+make: soldier_M - 288, 800 - U
+make: soldier_M - 352, 800 - U
+make: princess_F - 288, 736  - U
+make: bard_M - 224, 736 - U
+make: old_M - 224, 674 - D
+make: old_F - 288, 674 - D
+make: townfolk2_M - 160, 612 - D
+make: townfolk1_M - 352, 612 - D
+make: townfolk2_F - 288, 612  - D
+make: ranger_M - 500, 612 - D
+make: monk_F - 550, 612  - D
+text: bard_M - Forgive Princess Evlee. This is her first tour of the kingdom and time away from Castle Addinral.
+text: princess_F - Sorry, I... I was lost in thought.
+text: bard_M - Regardless, we must take leave. We thank you again for your hospitality.
+fade: True
+inc: 1

@@ -1,0 +1,10 @@
+locs: home_village
+positions: 64 608 32 32
+actions
+text: monk_F - Heiral!!! He was never planning to come back. He just wanted to steal our Gems to make some gold. Arrggghhhh!
+text: warrior_M - Relax Mel. There's no reason to get upset. He left and with any bit of luck we won't run into him again.
+text: monk_F - !
+text: monk_F - Fine.
+text: ranger_M - Right. Well we had better go rest. Let us meet down here tomorrow morning to end our Trial.
+fade: True
+inc: 1

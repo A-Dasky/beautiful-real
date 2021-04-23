@@ -1,0 +1,23 @@
+locs: quiet_forest
+positions: 420 644 96 32
+actions
+move: R - 0
+make: ranger_M - 500, 612 - L
+make: monk_F - 550, 612 - L
+text: monk_F - Look! A gem shop. I bet they'll know more about that gem Kralean.
+text: monk_F - Let's go!
+# Read sign on door about gem shop
+text: ranger_M - Hmmm.... It says "Shop Closed. I have traveled to Port d'Nols for business and do not expect to return this season."
+text: monk_F - Huh?!
+text: ranger_M - Wait, there's more.  "If you seek assistance please seek me out at Inn d'Nols."
+text: warrior_M - What should we do, go to Port d'Nols?
+text: monk_F - Of course!!!
+text: ranger_M - Right. Well, how are we getting there? I doubt between the three of us we have enough gold to cover the cost to travel.
+text: monk_F - We can be stowaways!
+text: ranger_M - No. That is a bad idea. Besides, most ships in this port are merchant vessels, which are too small to hide in.
+text: warrior_M - Do you think anyone would let us pay if we agree to work?
+text: ranger_M - Hmmm. Yes, that may be our best option.
+text: monk_F - Oh! I can prepare the cannons! Let's find pirates. 
+text: ranger_M - Right. Well, I doubt we will run into any pirates.
+fade: True
+inc: 1

@@ -1,0 +1,40 @@
+locs: elders_house
+positions: 0 160 144 64
+actions
+text: old_F - The three of you are here. Lets begin.
+text: old_M - Thank you all for coming today. Kralean, Melhay, and Myhal today is an important day for the three of you.
+text: old_M - It is a wonderful day, but unfortionate that your parents are not here to see this. In all my long years I never heard of the Sickness ravage a village like so.
+text: old_M - Kralean, although they were newcomers your parents brought such joy to our village. Your father's passing surprised us all. The Gods were kind and gave your mother the strength to give birth to you.
+text: old_F - Eventually that sickness spread to other villagers, and throughout the kingdom. Sad times. But enough about then.
+text: old_M - Today is the day your Trial Day. But Trial day is a tradition that dates back to the founding of our village over 400 years ago.
+text: old_F - Our entire village is rallying behind the three of you. This tradition is very important because it creates life long bonds with our village and our kingdom.
+text: old_F - Are you nervous? Fear or fear not it is wise that you be given gifts from others on your special day.
+# make_option(['Yes. I am worried about Trial Day.', 'No. I am ready to go!'])
+text: old_M - Village Patriarch: A sword for Kralean. Brave and bold.
+add_equipment: Copper Sword
+text: - [ You have received a Copper Sword ]
+text: old_M - Village Patriarch: For Melhay a pair of gloves. Quick and agile.
+add_equipment: Leather Gloves
+text: - [ You have received a Leather Gloves ]
+text: old_M - Village Patriarch: And for  a knife. Cunning and accurate.
+add_equipment: Bone Knife
+text: - [ You have received a Bone Knife ]
+text: old_F - These gifts shall help keep you safe, but these alone cannot save you from poor decisions. You must make the right choices.
+text: old_F - As for your trial.  The three of you must head to Yander's cave. The cave was discovered by Yander the explorer 400 years ago.
+text: old_F - The riches of the cave, specifically high quality Gems, started a rush of people to this side of Addinral.
+text: old_F - Prior to this, most of Addinral dare not travel too far beyond the protection of the castle, and those that did avoided the Quiet Forest.
+text: old_F - Only shipping crews needing to avoid a bad storm would port along the shore. But that was before Yander.
+text: old_M - Yander reported Gems so rare that even the most powerful among us could not weild them. This created a rush of people to explore the cave.
+text: old_M - Many of those people left the castle with little more than a hope and set out through the Quiet Forest. A lot of men and women did not succeed in reaching the other side.
+text: old_M - Those that did decided to settle in what is now our village. But to survive, each villager had to mine a Gem, to be sent back to the castle for additional supplies.
+text: old_F - Once Great King Tolen received word that his countrymen needed help, he purchased the Gems, and supplied the villagers with enough food and support to create a permanent settlement.
+text: old_F - He also ordered his men to clear the forest of dangerous beasts, making the once near fatal journey easier for all.
+text: old_F - Yander spent his final years here, and was the first burried in our cemetary.
+text: old_F - Before his death he reached out to King Tolen and the two established Trial Day, beginning our great tradition.
+text: old_F - Trial Day starts with a hunt for Gems, and ends with a visit from the royal convoy the following day.
+text: old_F - But alas, you did not come here to hear the story of Yander again, you came to hear about your Trial.
+text: old_M - We placed a pickaxe deep within Yander's Cave. Once you find this pickaxe you will each be required to retrieve one Gem.
+text: old_M - The quality of the gem does not matter. Remember that Yander's cave can be tricky to navigate so be careful.
+text: old_M - We suggest stocking up on supplies before you head out. Good luck on your Trial.
+fade: True
+inc: 1

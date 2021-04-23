@@ -1,0 +1,39 @@
+locs: home_village
+positions: 420 644 96 32
+actions
+move: R - 0
+make: ranger_M - 500, 612 - L
+make: monk_F - 550, 612 - L
+text: monk_F - Really enjoying your sleep Kralean. You almost missed the royal caravan.
+text: warrior_M - Guys, it happened again, twice.
+text: ranger_M - What happened.
+text: warrior_M -  It must have happened last night after I fell asleep. I heard voices.
+text: ranger_M - What were they saying?
+text: warrior_M - It was a pricess... Princess Selell.
+text: warrior_M - They menioned the Leeper War, King Tolen, Prince Rasamus.
+text: ranger_M - Right. Are you sure you weren't over thinking the events for today and that caused a vivid dream?
+text: warrior_M - That's what I thought at first. But listen, the second time was when I came down to see the royal caravan. I was transported away.
+text: ranger_M - ...
+text: monk_F - What are you talking about? You were standing next to us the whole time?
+text: warrior_M - I'm telling you, I left. But there's more, Princess Evlee was there too.
+text: monk_F - Wait, what?
+text: warrior_M - I spoke to her. She did not know what was going on either. Then something really strange happened.
+text: monk_F - That's not strange enough? Kralean!
+text: warrior_M - I then saw Princess Evlee, or who I thought was Princess Evlee.
+text: monk_F - Who was it!
+text: warrior_M - It was Princess Selell and a Soldier. They are the ones I have been hearing. But I was able to see them.
+text: ranger_M - You said that Princess Evlee looked similar to Princess Selell?
+text: warrior_M - They looked exactly the same. There was no difference.
+text: ranger_M - Right. And did you say anything?
+text: warrior_M - No. Neither did Princess Evlee. We stood there, shocked at what we were seeing.
+text: ranger_M - Hmmm.
+text: ranger_M - That could explain why she paused for a moment after greeting us. But she was only quiet for less than a minute before Prince Rasamus said anything.
+text: warrior_M - We were there, where ever there is, for longer than a few seconds.
+text: ranger_M - Hmmm.
+text: ranger_M - These events only started after we found that Gem. I think it is clear that we must find out more.
+text: monk_F - Well, we're suppose to go explore, where should we go, Castle Addinral?
+text: ranger_M - I do not think that is a good idea. I do not know how the princess will react to seeing us so soon, especially after what her and Kralean just went through.
+text: warrior_M - How about Nottershem? There's a lot merchants from all over the world that trade there. I'm sure someone can tell us more.
+text: ranger_M - Right. Let's head out.
+fade: True
+inc: 1

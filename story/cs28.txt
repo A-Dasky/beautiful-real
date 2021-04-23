@@ -1,0 +1,28 @@
+locs: elders_house
+positions: 0 160 144 64
+actions
+# CS at castle King, Princess, Bard on top
+text: king_M - Good day. Let me be the first to officially welcome to you to Addinral.
+text: king_M - I am joined today by my children His Royal Highness, Prince Rasamus, and by Her Royal Highness, Princess Evlee.
+text: magician_F - King Tolen, it was kind of you to invite us to your home.
+text: samari_M - It's been too long King Tolen. Last we met was ... Truce of the Three Kingdoms?
+text: magician_F - Strange name considering there's four kingdoms...
+text: samari_M - Maybe they think we'll forget about them?
+text: king_M - Yes. The Truce of the Three Kingdoms was the last time the three of us were together. 
+text: king_M - However, this time we are joined by others.
+text: magician_F - Yes, forgive my manners. Let me introduce our advisor, Calomere.
+text: king_M - It is a pleasure to meet you Calomere.
+text: darkknight_M - The pleasure is all mine, King Tolen.
+text: king_M - Now that formalities are out of the way let us proceed. I have called you here today to discuss your recent call to arms.
+text: king_M - We do not know what sparked the increase in troops, and we kindly request to learn why.
+text: magician_F - King Tolen, I assure you that whatever information you have received regarding the size and makeup of our army is incorrect.
+text: magician_F - If anything our army has diminshed in recent years. As your neighbors to the north both of our kingdoms benefit from mutual peace.
+text: king_M - Yes. You are correct.
+text: samari_M - I did not travel all this way to lie. We have increased our standing army. Our land is vast and mostly untamed.
+text: bard_M - I believe it was tame prior to the Leeper War.
+text: samari_M - You confuse oppression and tame, Prince Rasamus. Generationals that ruled Kavanso limited the use of any magic by it's inhabitants, and creatures.
+text: samari_M - We require magic to flourish so that our inhabitants can live their fullest lives.
+text: king_M - Forgive my son, he is quick to remember the past.
+text: magician_F - I can speak for all Leepers and say we too cannot forget the past. Everyday that goes by flowers grow, and bloom, and wither, and decay. But we remain the same.
+fade: True
+inc: 1

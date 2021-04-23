@@ -1,0 +1,14 @@
+locs: cave_no_gem - cave_no_gem
+positions: 64 32 32 64 | 1536 998 32 64
+show: White_stone_32 64 32 - Yellow_stone_32 1536 998
+actions
+text: ranger_M - There were good mining spots back the way we came.  We should examine those first before going any deeper.
+move: D - 1
+actions
+text: ranger_M - There seems to be something here. Let me see that pickaxe.
+sound: pickaxe
+text: ranger_M - Hmmm. A fine Gem indeed.
+text: monk_F - Ha! I see a crack in the Gem! Looks like you found a dud.
+text: ranger_M - Hmmm. Oh wait... There are two Gems. A bit of dirt made it seem like it was one large Gem. I'll hold onto both of these for now.
+text: monk_F - Only Kralean to go, let's go deeper! We're bound to find a nice Gem for you there.
+inc: 1

@@ -1,0 +1,16 @@
+locs: cave_no_gem
+positions: 98 632 96 48
+actions
+make: berserk_M - 116, 658 - U
+music: Heiral
+text: berserk_M - Took you guys long enough. Figured you got lost and were crying in a ravine.
+text: ranger_M - Heiral.
+text: berserk_M - I see you're as charismatic as ever Myhal.
+text: berserk_M - Whoa wait a second. Is that... A Gem? I've never seen anything like it.
+text: monk_F - Finders keepers, Heiral. Bet you haven't even found a gem yet.
+text: berserk_M - Haha. There's no need. I am just going to take that one off your hands. I know a few  people at Castle Addinral that would pay quite a bit of gold for such an odd Gem.
+text: warrior_M - I don't think so. Get out of our way.
+text: berserk_M - Hand over the Gem and I'll move.
+text: warrior_M - I don't think so.
+text: berserk_M - We'll see about that.
+inc: 1

@@ -1,0 +1,4 @@
+locs: cave_no_gem
+positions: 98 632 96 48
+actions
+inc: 1

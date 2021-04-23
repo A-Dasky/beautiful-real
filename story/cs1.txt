@@ -1,0 +1,35 @@
+locs: friends_house
+positions: 80 240 96 32
+actions
+text: warrior_M - (Where did they go?)
+sound: door_open
+move: D - 0
+make: ranger_M - 128, 320 - U
+make: monk_F - 96, 320 - U
+text: ranger_M - You're finally up! We went by your place earlier but you were still sleeping.
+text: monk_F - Not a care in the World.
+text: ranger_M - Right. Not worried about today. You remembered what today is, right Kralean?
+text: monk_F - He remembers.
+text: warrior_M - Of course I remember Myhal. We have our Trial.
+text: monk_F - Trial day! TRIAL DAY!
+text: ranger_M - Not so loud Melhay.
+text: monk_F - I'm just so... excited!
+text: monk_F - Nervous!
+text: monk_F - EXCITED!
+text: warrior_M - Right. We need to talk to the elders before we start.
+text: monk_F - Awww. Why do we need to talk to them?
+text: ranger_M - Well for starters, tradition.
+text: monk_F - But they always tell such long and boring stories.
+text: ranger_M - There is value in those stories. Just need to listen carefully.
+text: monk_F - You find your value, I'll be too busy finding a high grade Gem.
+text: warrior_M - Good Luck. It has been hundreds of years since the last high grade Gem was mined here.
+text: ranger_M - Right. We would be lucky to find a grade three.
+text: ranger_M - Even if you found a grade three, I doubt you would know how to use it.
+text: monk_F - I'd sell it to the highest bidder!
+text: warrior_M - Ha. We'll see.
+text: ranger_M - Right. Well, we better get going and meet up with the elders.
+fade: True
+add_char: Melhay
+add_char: Myhal
+text: - [ Melhay and Myhal have joined your party! ]
+inc: 1

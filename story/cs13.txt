@@ -1,0 +1,42 @@
+locs: world
+positions: 542 4658 80 80
+actions
+fade: True
+zone: BLANK 0 0
+cs: ad_throne_room 168 0
+music: Sadness
+make: soldier_M - 488, 352 - R
+make: soldier_M - 488, 416 - R
+make: soldier_M - 488, 480 - R
+make: soldier_M - 680, 352 - L
+make: soldier_M - 680, 416 - L
+make: soldier_M - 680, 480 - L
+make: king_M - 584, 224 - D
+make: princess_F - 552, 320 - U
+make: bard_M - 616, 320 - U
+text: king_M - I am glad that you both are here. This is a very special year for my kingdom.
+text: king_M - This year marks the first time in several generations that Rasamus is joined in his annual tour of Addinral.
+text: king_M - Princess Evlee, you're finally old enough to visit all ends of my kingdom. Even for those with as many years as me, today makes me proud.
+text: king_M - Not a day goes by that I do not miss the companionship with your mother, 85th Queen of Addinral.
+text: king_M - That is not to take anything away from Great Queen Margaret, 1st Queen of Addinral. Tragic were the events of the past.
+text: king_M - And it were those events that gave rise to our annual tour. We must understand our kingdom and its people.
+text: bard_M - They live, they work, they die.
+text: king_M - Rasamus, after all these years and after the Leeper War you still carry such hate.
+text: bard_M - It is not hate, father, it is pity. I pity their weak existence, the fagility of mortality. Always aware that their lives will end one day.
+text: bard_M - It is quite pathetic really.
+text: princess_F - Do you feel that... my existence... is pathetic.
+text: bard_M - Hrmph. I guess your existence has purpose, even if just to soothe the discomfort of the masses.
+text: princess_F - ...
+text: bard_M - Oh come now. You are my what, Fifieth sibling? I do not remember half, nor is there a need to.
+text: bard_M - Your singular purpose is to prevent another Leeper Uprising within our kingdom, you and I both know that.
+text: princess_F - I see.
+text: king_M - I think you have said enough Rasamus. Your lack of empathy toward those we have stewardship over still surprises me.
+text: king_M - No matter. You both leave soon to the port city of Nottershem. 
+text: king_M - After progressing through the remaining small villages and countryside you're to rest before heading to Yandersville.
+text: bard_M - Just in time for their pointless tradition.
+text: king_M - The only thing that kept this kingdom from ruin was Yander's discovery of valuable Gems.
+text: king_M - We were able to leverage those Gems and gain financial stability. Without that coin our enemies would have been at our door.
+text: bard_M - He was a lucky fool that survived the Leeper War just to die from the Sickness.
+text: king_M - Enough. Rasamus you have performed the annual tour enough times by now. Go prepare for your journey.
+fade: True
+inc: 1

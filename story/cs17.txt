@@ -1,0 +1,27 @@
+locs: hero_house
+positions: 128 96 48 48
+actions
+text: warrior_M - (I am pretty tired. I should really rest.)
+fade: True
+music: Sadness
+text: - Female Voice: Knight. I sense your guard is up. Why?
+text: - Male Voice: Yes Princess. I must be on alert at all times.
+text: - Female Voice: Is that so brave knight.
+text: - Female Voice: Please call me Selell.
+text: - Male Voice: Princess, you know I cannot.
+text: - Princess Selell: What if I command it.
+text: - Male Voice: I still dare not. King Tolen would send me to the front.
+text: - Princess Selell: Haha. Yes he would, but lucky for you he has not returned to Addinral since before I was born. All I know of him are stories told of his glory.
+text: - Princess Selell: As for you brave knight, what is your story?
+text: - Male Voice: I was an orphan Princess. My parents stricken by the Sickness. I was raised on a small farm and sent to the Legion when I had grown.
+text: - Princess Selell: I am sorry. I did not mean to bring forth painful memories.
+text: - Princess Selell: Yet even with painful memories, your eyes are still soft. Oh brave knight.
+text: - Male Voice: Forgive me Princess but...?
+text: - Princess Selell: Oh brave knight, we have much to discuss. I refuse to be guarded by someone I do not know.
+text: - Male Voice: What else would you like to know Princess?
+text: - Princess Selell: I need to know what you cannot tell me. Oh my Brave Knight, this will be fun.
+text: - Male Voice: Please forgive me I do not understand.
+text: - Princess Selell: Relax brave knight. You need not worry.
+text: - Princess Selell: But my name is Selell.
+fade: True
+inc: 1

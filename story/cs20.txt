@@ -1,0 +1,61 @@
+locs: BLANK
+positions: -32 -32 32 32 
+actions
+zone: BLANK 0 0
+cs: paradise_1 128 0
+make: warrior_M - 320, 256 - D
+make: princess_F - 320, 320 - U
+text: warrior_M - Hello? What happened? Where am...
+text: princess_F - Where am I?
+text: warrior_M - Who's there?
+text: princess_F - Please do not hurt me. Where is everyone?
+text: warrior_M - (That voice sounds familiar.)
+text: warrior_M - I mean you no harm.
+text: warrior_M - Princess Evlee?
+text: princess_F - How did we get here? Where is everyone?
+text: warrior_M - I do not know. And I don't know where here is.
+text: princess_F - I was with the others in the village and then...
+zone: BLANK 0 0
+sound: flash
+flash: True
+music: memories
+cs: paradise_1 128 0
+make: warrior_M - 320, 256 - R
+make: princess_F - 320, 320 - R
+make: soldier_M - 544, 288 - R
+make: princess_F - 608, 288 - U
+text: soldier_M - Selell, why have we wandered so far from the protection of Castle Addinral?
+text: princess_O - For this.
+text: princess_O - As of late Addinral has grown deep in debt. The war efforts are costly and there seems to be no end in sight.
+text: princess_O - Mother and I have had to increase taxes and requested additional crop yield. It seems not fair to the blacksmith and farmer and everyone between.
+text: princess_O - Everyone has worked so hard already, and to push them even further I... I can't.
+text: soldier_M - Selell.
+text: princess_O - And even when we push them for more they do not hesitate. But they hurt. And I feel their pain.
+text: princess_O - And that is why I came here.
+text: princess_O - I am reminded of this world's beauty.
+text: princess_O - My mind can rest and not think about the war.
+text: princess_O - That way I can help make decisions that are best for the people of Addinral.
+text: soldier_M - Your people know that this is not your war. Leepers emerged from Golisha. They brought this war to this land.
+text: princess_O - My brave knight it is never that simple.
+text: princess_O - Children younger than me have only known war. Young adults are being deprived a safe land to sow crops and raise a family.
+text: princess_O - How can we ask them to support our war if we cannot provide for their basic needs.
+text: soldier_M - Selell, I care for my fellow countrymen as much as any. We know these are hard times. We shall support you to defeat the Leepers.
+text: princess_O - Oh my brave knight. We cannot just defeat our enemies, we must also preserve what makes our kingdom great.
+text: soldier_M - King Tolen, Queen Margaret, Prince Rasamus, and you are the eternal lights our kingdom needs.
+text: princess_O - Eternity. I know not what this means. I am no older than you. Even Rasamus had only reached our age before the war started.
+text: soldier_M - Queen Margaret will teach you. She is wise and kind.
+text: princess_O - What if... what if I did not want it.
+text: soldier_M - Selell...
+text: princess_O - I only know a world where the worst in us exists. The evils and horrors we are capable of.
+text: princess_O - Maybe I wouldn't feel this way if... if everywhere were like here. Forgive me my brave knight, I know most do not get to see endless sunrises.
+text: soldier_M - Thank you Selell.
+text: princess_O - ...
+text: soldier_M - You have shown me what love is.
+text: soldier_M - Love is not measured in the number of sunrises, but rather the energy surrounding us when we experience love.
+text: soldier_M - The world cannot forget this love, and neither can we.
+text: princess_O - Oh my brave knight. Let's enjoy our peace while we can.
+zone: BLANK 0 0
+sound: flash
+flash: True
+zone: home_village 420 644
+inc: 1

@@ -1,0 +1,40 @@
+locs: home_village
+positions: 420 644 96 32
+actions
+make: soldier_M - 160, 800 - U
+make: soldier_M - 224, 800 - U
+make: soldier_M - 288, 800 - U
+make: soldier_M - 352, 800 - U
+make: princess_F - 288, 736  - U
+make: bard_M - 224, 736 - U
+make: old_M - 224, 674 - D
+make: old_F - 288, 674 - D
+make: townfolk2_M - 160, 612 - D
+make: townfolk1_M - 352, 612 - D
+make: townfolk2_F - 288, 612  - D
+make: ranger_M - 500, 612 - D
+make: monk_F - 550, 612  - D
+text: old_M - Prince Rasamus let me be the first to welcome you to Yandersville. It is an honor to have you visit our village again.
+text: bard_M - Thank you. The royal family is always grateful for the warm hospitality we receive.
+text: old_M - It is an honor that you take the time to visit us.
+text: bard_M - Please, spare me praise. But... I hear that today is a special day for this village. Do tell me more.
+text: old_F - Yes, sir. If I may. Yandersville was founded nearly 400 years ago after Yander the Wise explored a nearby cave and found Gems.
+text: old_F - He sent word to great King Tolen of the cave's riches.  King Tolen then had the Quiet Forest cleared of evils.
+text: old_F - Many that came seeking fortunes later settled here.  In honor of Yander we named this village after him.
+text: bard_M - I remember dear Yander. One of the few surviving Generationals living outside of Vanahal. I hear Sickness did him in.
+text: old_M - Yes Prince Rasamus. It was a shame to lose our hero.
+text: bard_M - Strange that Sickness seems to afflict this village often.
+text: old_F - Since our founding Sickness has taken root only twice, first with Yander and only Yander. The other time was not a score ago. This time we lost several villagers.
+text: bard_M - Let us stop this talk of Sickness, I did not come here to be sadden.
+text: old_M - Of course. Please, may you allow me to introduce this year's Trial participants.
+text: old_M - Kralean, Melhay, and Myhal. The three of them have sucessfully retrieved a Gem from Yander's cave.
+text: bard_M - [ Slow Clap ]
+text: bard_M - It seems you three have kept this tradition alive and well. The kingdom thanks you three.
+text: bard_M - Well, our journey is long and the day does not grow younger. We should be off.
+text: bard_M - ...Wait.
+text: bard_M - I almost forgot. Let me introduce my sister, Princess Evlee.
+text: princess_F - Hello.
+zone: BLANK 0 0
+sound: flash
+flash: True
+inc: 1

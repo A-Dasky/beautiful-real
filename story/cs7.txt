@@ -1,0 +1,17 @@
+locs: cave_no_gem
+positions: 64 32 32 64
+show: White_stone_32 64 32
+actions
+text: warrior_M - There seems to be something over here. Let me try.
+sound: pickaxe
+fade: True
+music: Sadness
+text: - Male Voice: Let go of her!
+text: - Another Voice: The weak are always demanding that the mighty follow their orders. However, you are as useless as a stone knight. You could join us, be free of mortality. Yet you guard ... her.
+text: warrior_M - Hello? Who's there? Can you hear me?
+text: - Female Voice: Let him go. He's not part of our war.
+text: - Second Voice: Keep quiet.
+text: - First Voice: Free me if you dare.
+text: - Second Voice: Hrmph... You are a waste of my time. Get rid of him.
+text: - First Voice: Argh..
+inc: 1

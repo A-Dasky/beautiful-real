@@ -1,0 +1,13 @@
+locs: elders_house
+positions: 128 272 96 16
+actions
+sound: door_open
+make: berserk_M - 144, 304 - U
+text: berserk_M - You guys are finally finished. I have been waiting all day to get started.
+text: monk_F - Move it Heiral.
+text: berserk_M - Ha. Big words coming from such a weak person. Remember, I know my family and my generation. I'm a 30. You're just another Genless nobody.
+text: monk_F - What did you say?! Who cares what generation you are, you're still weak!
+text old_M - As much as we appreciate this, energy, maybe we should save it for your Trials.
+text: berserk_M - If you three find youself in trouble know I won't save you!
+fade: True
+inc: 1
