@@ -8,5 +8,3 @@ License
 -------
 
 See /credits (/credits)
-
-
