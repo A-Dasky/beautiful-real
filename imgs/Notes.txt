@@ -1,0 +1,3 @@
+paper-dialog.png = Iron Star Media @ opengameart.org
+woa_items1.png = Leonard Pabin @ opengameart.org
+PixelITime = BizmasterStudios @ 

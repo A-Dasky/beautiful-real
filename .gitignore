@@ -1,5 +1,7 @@
 # Local files to ignore
 .vscode
+*.mpy
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

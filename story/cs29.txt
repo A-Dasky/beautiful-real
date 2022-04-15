@@ -1,0 +1,5 @@
+# CS on ship w/ cap and main
+locs: top_of_ship
+text: captain_M - Wind tellin' me we be arriving in the mornin'.
+text: warrior_M - Hmmm. Thank you. This is the furthest I any of us have ever been from home.
+text: captain_M - Aye. Me sees it in yer faces.
