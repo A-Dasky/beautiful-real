@@ -19,6 +19,7 @@ text: magician_F - King Tolen, I assure you that whatever information you have r
 text: magician_F - If anything our army has diminished in recent years. As your neighbor to the north both of our kingdoms benefit from mutual peace.
 text: king_M - Yes. You are correct.
 text: samari_M - I did not travel all this way to lie. We have increased our standing army. Our land is vast and mostly untamed.
+text: samari_M - President {LEEPPRESIDENT} has requested more troops to defend our land from the beasts at our boarder.
 text: bard_M - I believe it was tame prior to the Leeper War.
 text: samari_M - You confuse oppression and tame, Prince Rasamus. Generationals that ruled Kavanso limited the use of any magic by it's inhabitants, and creatures.
 text: samari_M - We require magic to flourish so that our inhabitants can live their fullest lives.
@@ -35,6 +36,15 @@ text: bard_M - Her opinions are of no matter here.
 text: samari_M - Last I recall commoner's opinions are what lead to conflict.
 text: darkknight_M - We are off topic. Let us resume peace talks.
 text: bard_M - Calomere, right? What exactly do you get from this?
-text: king_M - There are a lot of questions for our travelers. Let us continue this discussion after supper.
+text: darkknight_M - I serve to protect the peace.
+text: bard_M - And not Leeva? How strange. Leeper or Generational?
+text: darkknight_M - I am neither.
+text: bard_M - An advisor that is neither? We do live in strange times. How did that come to be?
+text: magician_F - Calomere is wise beyond his years.
+text: bard_M - Or maybe the Leeper's were never that strong to begin with.
+text: samari_M - Prince Rasamus, lest we forget the the Truce of the Three Kingdoms.
+text: samari_M - Truce aren't the tool of the victors.
+text: bard_M - I suppose but no one asked for my opinion on the matter.
+text: king_M - We have strayed far off topic. There are a lot of questions for our travelers. Let us continue this discussion after supper.
 fade: True
 inc: 1

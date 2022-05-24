@@ -1,5 +1,19 @@
 # CS on ship w/ cap and main
 locs: top_of_ship
 text: captain_M - Wind tellin' me we be arriving in the mornin'.
-text: warrior_M - Hmmm. Thank you. This is the furthest I any of us have ever been from home.
+text: warrior_M - Hmmm. Thank you. This is the furthest any of us have ever been from home.
 text: captain_M - Aye. Me sees it in yer faces.
+text: warrior_M - That obvious, huh?
+text: captain_M - Ha. Boy, there be two things I do well: the sea and people.
+text: captain_M - Being away tis a good thing. Ye learn things.
+text: warrior_M - Like what?
+text: captain_M - Ha! Things boy. Can't be tellin' you what things to learn.
+text: captain_M - Tis a big world, and she be old. There be lots to learn.
+text: warrior_M - Right now I just want to know more about this gem.
+text: captain_M - Rock.
+text: warrior_M - Gem. I can't explain it but what I saw happened, or is going to happen. And the princess was there.
+text: captain_M - Princess? Never mentioned no princess before.
+text: warrior_M - Does that change anything?
+text: captain_M - No. Still think it be a rock. It be getting late boy. Rest is callin'.
+fade: True
+inc: 1

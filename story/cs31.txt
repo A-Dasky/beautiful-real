@@ -1,0 +1,13 @@
+locs: elders_house
+positions: 0 160 144 64
+actions
+# Hero's at dock
+text: captain_M - Here we be, {LEEPCITY}.
+text: monk_F - Just when the high seas started to sing to me!
+text: captain_M - Aye, they sung a calm song for us.
+text: ranger_M - Right. Well, thank you for your assistance.
+text: captain_M - Ain't no way we be partin' ways, boy. Need to here 'bout yer stone first.
+text: warrior_M - Gem.
+text: captain_M - We'll see. Let's be to it.
+fade: True
+inc: 1

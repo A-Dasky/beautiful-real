@@ -1,0 +1,50 @@
+locs: elders_house
+positions: 0 160 144 64
+actions
+# CS at castle Bard and samari_M at night
+text: samari_M - Rasamus, I hope you are not getting cold feet.
+text: bard_M - Please. Nothing can be further from the truth. I did enjoyed your performance earlier.
+text: samari_M - I was almost convinced you hate all Leepers.
+text: bard_M - And you all Generationals.
+text: samari_M - Maybe I do.
+text: bard_M - Lets not waste time. We've waited long enough.
+text: samari_M - We are all parting ways in the morning. I have my army ready to attack {GENLAND}.
+text: samari_M - I cannot make my move until King Tolen has been disposed and you're sitting on the throne.
+text: bard_M - What of Leeva and President {LEEPPRESIDENT}? 
+text: samari_M - I am already ahead of you and something is in the works.
+text: samari_M - Disposing of {LEEPPRESIDENT} will be easy. He is not popular after failed attempts to tame the boarder.
+text: samari_M - However, Calomere does concern me.
+text: samari_M - They say he is very knowledgeable about magic and military strategy.
+text: bard_M - You are one of the most powerful people in this world and you're concerned with a mortal?
+text: samari_M - I have spies and sources in nearly every corner of this world, yet his past is a mystery.
+text: bard_M - He's just a mortal.
+text: samari_M - Perhaps.
+text: bard_M - Well I am tired of playing the role of apologist for my father.
+text: bard_M - His poor decisions led to us losing half of our kingdom to Leepers.
+text: samari_M - ...
+text: bard_M - Please, you're proud of that. You lead the raid on this castle.
+text: bard_M - I'm sure you're proud of those achievements.
+text: samari_M - Why you built a castle in such an exposed position I'll never understand.
+text: samari_M - And we raided to send a message, but we didn't have the force to hold this position.
+text: bard_M - Regardless, my father sends me out each year to remind these mortals that he cares.
+text: samari_M - Does he?
+text: bard_M - He shouldn't. Why do we care about the troubles of mortals.
+text: samari_M - I was once mortal.
+text: bard_M - Once, and now you're practically one of us.
+text: samari_M - If all goes to plan you will be the last Generational. Which is why I cannot afford any mistakes. 
+text: samari_M - Kavanso cannot afford to fight {LEEVAGENLAND}, {GENLAND1}, and {GENLAND2}.
+text: samari_M - But if {GENLAND1} conquerors {LEEVAGENLAND}, our combined forces can overpower {GENLAND2}.
+text: bard_M - It would be nice to restore this kingdom to its former glory.
+text: bard_M - But why do i care about {GENLAND2}. They have remained very isolated since the end of the war.
+text: samari_M - Once they find out what we've done, they'll do anything to stop us.
+text: samari_M - And they still control the land around {LOSTKINGDOM}.
+text: bard_M - Why do you care about that?
+text: samari_M - It's rumored to be the source of all magic in this world. 
+text: samari_M - The closer our scouts get to {LOSTKINGDOM}, the more powerful the beast become.
+text: samari_M - {GENLAND2} has a way past the beast directly to that kingdom. We cannot secure that land fighting beasts and {GENLAND2}.
+text: bard_M - I've heard these rumors too, and those rumors all say the magic is gone.
+text: bard_M - What's left is stored in the Gems.
+text: samari_M - Well, we won't know until after our plan has worked. I am counting on you Rasamus.
+text: bard_M - Just hold up your end of the bargin. I'd hate to put faith into a Leeper just to be disappointed.
+fade: True
+inc: 1
