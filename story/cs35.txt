@@ -1,0 +1,5 @@
+locs: cave_no_gem
+positions: 98 632 96 48
+# Battle vs. Heiral
+actions
+inc: 1

@@ -27,7 +27,7 @@ text: bard_M - It is quite pathetic really.
 text: princess_F - Do you feel that... my existence... is pathetic.
 text: bard_M - Hrmph. I guess your existence has purpose, even if just to soothe the discomfort of the masses.
 text: princess_F - ...
-text: bard_M - Oh come now. You are my what, Fifieth sibling? I do not remember half, nor is there a need to.
+text: bard_M - Oh come now. You are my what, seventy-second sibling? I do not remember half, nor is there a need to.
 text: bard_M - Your singular purpose is to prevent another Leeper Uprising within our kingdom, you and I both know that.
 text: princess_F - I see.
 text: king_M - I think you have said enough Rasamus. Your lack of empathy toward those we have stewardship over still surprises me.

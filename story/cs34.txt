@@ -1,0 +1,18 @@
+locs: elders_house
+positions: 0 160 144 64
+actions
+# End of Dungeon, Dialog before Heiral fight #2 (Gen want to be).
+text: berserk_M - Hmmmm...
+text: warrior_M - Heiral is that you?
+text: berserk_M - What are you three losers doing all the way over here?
+text: monk_F - Hey! We don't have to answer your questions after what you did in 
+text: berserk_M - Haha, poor {FEMALEMONK}, were your feelings hurt? I honestly don't care.
+text: monk_F - Ugh!
+text: ranger_M - Right. Well, we're busy and don't have time for a reunion.
+text: berserk_M - You didn't answer my question. Where are you losers going? There's nothing this way except...
+text: berserk_M - Don't tell me you're trying to get to {LOSTKINGDOM}!
+text: berserk_M - Hahaha. Pathetic losers like you could never survive the journey.
+text: monk_F - Ugh!
+text: warrior_M - Where we're going and what we're doing is our own business.
+text: berserk_M - I see you still have those nice Gems. Be a shame if someone were to take them!
+inc: 1

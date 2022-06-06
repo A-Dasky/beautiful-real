@@ -2,3 +2,46 @@ locs: elders_house
 positions: 0 160 144 64
 actions
 # Hero's in Gem shop
+text: - Gem Merchant: Welcome travelers, welcome.
+text: ranger_M - Good afternoon, are you an expert in rare Gems?
+text: captain_M - He be the only soul here, boy. Tis his store.
+text: - Gem Merchant: Quiet right. This is my store and I have studied Gems for nearly my entire life.
+text: warrior_M - We need your help learning more about this Gem.
+text: - Gem Merchant: Well, the most common Gem types are Nature, Fire, Water, Earth, and Wind. 
+text: - Gem Merchant: Some uncommon Gems tend to be a combination of these types. As a Gem's level increases, so does its rarity.
+text: warrior_M - Are those the only type of Gems?
+text: - Gem Merchant: Interesting, interesting.
+text: monk_F - What's so interesting?!
+text: captain_M - Lass, let 'em speak.
+text: - Gem Merchant: There are only two other types of Gems. These do not have levels, and no soul alive can wield them.
+text: - Gem Merchant: Those are soul Gems and force Gems. Both of these are extremely rare, and are only created after a soul has departed this world.
+text: - Gem Merchant: The main difference between them is force Gems contain rare magic, whereas memory Gems contain the memories of a departed Generational.
+text: - Gem Merchant: I have only heard of First Generationals being able to wield either.
+text: warrior_M -  A memory Gem? Are they clear like glass?
+text: - Gem Merchant: Why yes, they ar... Did you happen to come across a memory Gem in your travels?
+text: warrior_M - I didn't know what it was until I picked it up and heard voices, and later I...
+text: - Gem Merchant: Voices, you say? Impossible. Excuse my confusion, I do not understand. 
+text: - Gem Merchant: Are you perhaps from Vanahal?
+text: warrior_M - No. Just a normal human from Addinral.
+text: - Gem Merchant: It takes a great amount of power to wield memory Gems. Even Generationals struggle.
+text: monk_F - (Gem)
+text: captain_M - (Me ears work just fine Lass)
+text: warrior_M - But I was able to hear, and see ...
+text: - Gem Merchant: See?! You held a memory Gem and had a vision? I ... I cannot help you.
+text: monk_F - !?
+text: ranger_M - Please, sir. We have traveled all this way.
+text: - Gem Merchant: Even if I wanted to, their history and use is still very much beyond my knowledge.
+text: - Gem Merchant: My knowledge only extends to rumors and legends. The Halls of {LOSTKINGDOM}.
+text: - Gem Merchant: It was rumored that {LOSTKINGDOM} had the power to use memory Gems, for what I do not know.
+text: - Gem Merchant: Their downfall is also mysterious, but that is a tale for another day.
+text: monk_F - Sounds like we'll just go to {LOSTKINGDOM} and have a look for ourselves.
+text: - Gem Merchant: I would advise against it. Strange and powerful creatures inhabit those lands.
+text: - Gem Merchant: The land around {LOSTKINGDOM} was ruled a forbidden zone in the Truce of the Three Kingdoms.
+text: - Gem Merchant: However, it is not heavily enforced. More of a warning to wary travels and um,... eh...
+text: captain_M - Captain o' me ship.
+text: - Gem Merchant: Percisely.
+text: - Gem Merchant: Is there anything else I can help you with?
+text: monk_F - What is a force Gem?
+text: - Gem Merchant: All I know is that they hold an immense amount of energy, and all Generationals that have attempted to use them have perished.
+fade: True
+inc: 1

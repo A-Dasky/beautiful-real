@@ -1,0 +1,8 @@
+locs: elders_house
+positions: 0 160 144 64
+actions
+# After fight
+text: berserk_M - Haha, well this mildly entertaining but now this bores me.
+text: berserk_M - So long losers.
+fade: True
+inc: 1

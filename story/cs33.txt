@@ -1,0 +1,23 @@
+locs: elders_house
+positions: 0 160 144 64
+actions
+# Right outside Gem shop
+text: captain_M - Just when me thinks me seen it all.
+text: warrior_M - Thanks again for bringing us all this way.
+text: captain_M - Aye, you were right, tis a Gem. Need a lift back?
+text: ranger_M - Yes, I think we...
+text: warrior_M - No. We should go to {LOSTKINGDOM}.
+text: ranger_M - What?!
+text: monk_F - All right! You coming Cap?!
+text: captain_M - Afraid not. Can't risk me ship and gold to be made.
+text: warrior_M - This is where we part ways then.
+text: captain_M - It seems that way. Check the ports for me.
+text: ranger_M - Those places are always full of folk of questionable motives.
+text: captain_M - Aye they are, but when I found you there I still gave you a ride, HA HA HA! 
+text: ranger_M - Right.
+text: captain_M - Relax lad. Stress be doin' a whole lot of no good for no one.
+text: ranger_M - ?! I'm not stressed.
+text: monk_F - We'll work on that!
+text: captain_M - Ha Ha Ha. Good luck, lass.
+fade: True
+inc: 1
