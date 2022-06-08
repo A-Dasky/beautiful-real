@@ -3,6 +3,7 @@ positions: 0 160 144 64
 actions
 # CS at castle King, Princess, Bard on top
 text: king_M - Good day. Let me be the first to officially welcome to you to Addinral.
+text: king_M - Chancellor Leeva, Prime Minister Tabone.
 text: king_M - I am joined today by my children His Royal Highness, Prince Rasamus, and by Her Royal Highness, Princess Evlee.
 text: magician_F - King Tolen, it was kind of you to invite us to your home.
 text: samari_M - It's been too long King Tolen. Last we met was ... Truce of the Three Kingdoms?

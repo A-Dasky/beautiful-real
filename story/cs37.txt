@@ -6,4 +6,5 @@ text: monk_F - Everytime! What is his problem?!
 text: warrior_M - It was strange running into him out here.
 text: ranger_M - Hmmm. You're correct. This was an odd encounter.
 text: ranger_M - We should not linger, we still have a ways to go.
+fade: True
 inc: 1

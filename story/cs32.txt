@@ -15,24 +15,24 @@ text: monk_F - What's so interesting?!
 text: captain_M - Lass, let 'em speak.
 text: - Gem Merchant: There are only two other types of Gems. These do not have levels, and no soul alive can wield them.
 text: - Gem Merchant: Those are soul Gems and force Gems. Both of these are extremely rare, and are only created after a soul has departed this world.
-text: - Gem Merchant: The main difference between them is force Gems contain rare magic, whereas memory Gems contain the memories of a departed Generational.
+text: - Gem Merchant: The main difference between them is force Gems contain rare magic, whereas soul Gems contain the memories of a departed Generational.
 text: - Gem Merchant: I have only heard of First Generationals being able to wield either.
-text: warrior_M -  A memory Gem? Are they clear like glass?
-text: - Gem Merchant: Why yes, they ar... Did you happen to come across a memory Gem in your travels?
+text: warrior_M -  A soul Gem? Are they clear like glass?
+text: - Gem Merchant: Why yes, they ar... Did you happen to come across a soul Gem in your travels?
 text: warrior_M - I didn't know what it was until I picked it up and heard voices, and later I...
 text: - Gem Merchant: Voices, you say? Impossible. Excuse my confusion, I do not understand. 
 text: - Gem Merchant: Are you perhaps from Vanahal?
 text: warrior_M - No. Just a normal human from Addinral.
-text: - Gem Merchant: It takes a great amount of power to wield memory Gems. Even Generationals struggle.
+text: - Gem Merchant: It takes a great amount of power to wield soul Gems. Even Generationals struggle.
 text: monk_F - (Gem)
 text: captain_M - (Me ears work just fine Lass)
 text: warrior_M - But I was able to hear, and see ...
-text: - Gem Merchant: See?! You held a memory Gem and had a vision? I ... I cannot help you.
+text: - Gem Merchant: See?! You held a soul Gem and had a vision? I ... I cannot help you.
 text: monk_F - !?
 text: ranger_M - Please, sir. We have traveled all this way.
 text: - Gem Merchant: Even if I wanted to, their history and use is still very much beyond my knowledge.
 text: - Gem Merchant: My knowledge only extends to rumors and legends. The Halls of {LOSTKINGDOM}.
-text: - Gem Merchant: It was rumored that {LOSTKINGDOM} had the power to use memory Gems, for what I do not know.
+text: - Gem Merchant: It was rumored that {LOSTKINGDOM} had the power to use soul Gems, for what I do not know.
 text: - Gem Merchant: Their downfall is also mysterious, but that is a tale for another day.
 text: monk_F - Sounds like we'll just go to {LOSTKINGDOM} and have a look for ourselves.
 text: - Gem Merchant: I would advise against it. Strange and powerful creatures inhabit those lands.

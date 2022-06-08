@@ -3,7 +3,7 @@ positions: 0 160 144 64
 actions
 # CS at castle Bard and samari_M at night
 text: samari_M - Rasamus, I hope you are not getting cold feet.
-text: bard_M - Please. Nothing can be further from the truth. I did enjoyed your performance earlier.
+text: bard_M - Tabone, please. Nothing can be further from the truth. I did enjoyed your performance earlier.
 text: samari_M - I was almost convinced you hate all Leepers.
 text: bard_M - And you all Generationals.
 text: samari_M - Maybe I do.

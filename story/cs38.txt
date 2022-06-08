@@ -1,4 +1,14 @@
 locs: elders_house
 positions: 0 160 144 64
 actions
-# After he leaves
+# Gem Store
+text: - Gem Merchant: I'm sorry but the store is closed. Please come back ...
+text: - Gem Merchant: Oh. It's you.
+text: - Gem Merchant: Travelers from X came by not too long ago. They had with them a MEMORY Gem. I suggested to them they go to {LOSTKINGDOM}.
+text: cultist_M - Anything else?
+text: - Gem Merchant: Well, a peculiar exchange occurred.
+text: cultist_M - ...
+text: - Gem Merchant: One of the travelers said he heard and saw things while holding the MEMORY Gem. I ... I don't understand how.
+text: cultist_M - I must be going.
+fade: True
+inc: 1

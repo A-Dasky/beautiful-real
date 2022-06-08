@@ -1,0 +1,43 @@
+locs: elders_house
+positions: 0 160 144 64
+actions
+# End of Dungeon meeting Gen guards
+text: - Guard: Stop there. That's far enough.
+text: ranger_M - Please forgive us. We are on our way to {LOSTKINGDOM}.
+text: - Guard: No one is allowed to venture past this point. Going to {LOSTKINDOM}is prohibited.
+text: monk_F - Oh, come on! What's so bad about us going there?
+text: - Guard: We're doing this for your own good. You three wouldn't even survive the journey there.
+text: - Guard: Horrific monsters roam near {LOSTKINDOM}. That wasn't always the case.
+text: warrior_M - What happened?
+text: - Guard: These lands were once peaceful. I remember it well, I was there because I am a Generational.
+text: monk_F - Whoa! Really?!
+text: - Guard: {LOSTKINDOM} was ruled by an old and wise Generational, King Anowl. Some said he was one of the first Generationals.
+text: - Guard: Generationals and common folk lived together and the kingdom flourished.
+text: - Guard: Then the Leepers showed up. Had {LOSTKINGDOM} known of this threat from the beginning they would have stopped them in their tracks.
+text: - Guard: But ... That's not what fate had in mind.
+text: - Guard: I am from {GENKINGDOM}, and was stationed near the front when IT happned.
+text: monk_F - When what happened?!
+text: - Guard: That's just it. No one alive knows. King Tolen, one of the last of the High Generationals, was preparing to lead a charge into enemy lines.
+text: - Guard: Right before we received the signal, a messanger from the Leepers arrived with a Truce offer.
+text: - Guard: Later, we heard that {LOSTKINGDOM} was destroyed, wiped completely from the map along with all its inhabitants.
+text: - Guard: What's more, a Leeper army besieging the gates also fell victim to whatever force destroyed {LOSTKINGDOM}.
+text: ranger_M - Hmmm. A weapon and magic?
+text: - Guard: It would have the most powerful Generationals and Leepers using the highest level Gems to cause even a small fraction of that destruction.
+text: - Guard: {LOSTKINGDOM} had immense walls, crafted and built over thousands of years.
+text: - Guard: Whatever IT was it vanished. Before the treaty was signed each nation sent an ambasador to this area.
+text: - Guard: Prince Rasamus from Addinral, General Tabone from {LEEPERKINGDOM}, X from {GENKINGDOM}, and General Leeva from {LEEPERKINGDOM}.
+text: - Guard: When they arrived they found {LOSTKINGDOM} completely destroyed, but here's the odd thing ... There were no bodies. Almost as though they all vanished.
+text: monk_F - What?! How?!
+text: - Guard: That's all we were ever told. Over time the creatures that lived near {LOSTKINGDOM} started to go crazy, almost as though they were affected by whatever happened.
+text: - Guard: The rest is history. The world split into four kingdoms. {LOSTKINGDOM} was declared off limits to all.
+text: warrior_M - We were told that we may find answers there.
+text: - Guard: Answers regarding what?
+text: warrior_M - A soul Gem we came across.
+text: - Guard: A soul Gem? Rare indeed. But you won't gain anything traveling to {LOSTKINGDOM}. 
+text: warrior_M - I was told I'd learn why the soul Gem made me hear and see things.
+text: - Guard: Impossible.
+text: warrior_M - Is there anything else you can tell me about soul Gems?
+text: - Guard: No, they are very rare and only High Generationals used them.
+text: - Guard: However, I am requesting you accompany me to {GENKINGDOM}.
+fade: True
+inc: 1
