@@ -1,0 +1,42 @@
+locs: elders_house
+positions: 0 160 144 64
+actions
+# LEEPER KINGDOM 2, First coup
+text: magician_F - Calomere, now that we're back have you had a chance reflect on our visit to Addinral?
+text: darkknight_M - Although the visit was short I can say that the rumors of King Tolen are true. He seems, weaker, afriad even.
+text: magician_F - Do you think Tabone noticed?
+text: darkknight_M - Yes, and that concerns me.
+text: magician_F - How so?
+text: darkknight_M - He strikes me as someone who is still fighting a war, not a diplomat.
+text: magician_F - His power and influence is limited, President X will reign his ambition in.
+text: magician_F - As for Prince Rasamus, his arrogance hides his naiviety. If only we crossed paths on the battlefield.
+text: darkknight_M - A Generational raised around Mortals during a war may develop an elevated sense of their own worth.
+text: magician_F - Speaking from experience?
+text: darkknight_M - It is my observation. Prince Rasamus seems uncomfortable in his current role.
+text: magician_F - He is a fool. King Tolen will keep him in his place.
+text: darkknight_M - Perhaps.
+text: magician_F - Perhaps? Haha, regardless it has been a long journey. Let's discuss our trade and army needs later this week.
+text: darkknight_M - Yes, Chancellor.
+text: magician_F - That is all. You are dismissed.
+# Calomere Leaves, Guard enters
+text: - Guard: Chancellor Leeva.
+text: magician_F - Yes?
+text: - Guard: Your meeting with visitors from {LEEPERKINGDOM} have arrived.
+text: magician_F - Meeting? I have no visitors or meetings scheduled for today.
+# Magic / make single guard turn into a lot of ninjas appear
+text: magician_F - What is this!?
+text: ninja_M - Chancellor Leeva, you tenure as Chancellor of {LEEPERKINGDOM} has come to an end.
+text: magician_F - You are all Leepers! Why would you attack one of your own?
+text: ninja_M - Any Leeper who aligns with Generationals is not a Leeper we can trust. 
+text: magician_F - Tabone ...
+text: magician_F - Does he not realize we need to trade with them? Our people need food and resources.
+text: magician_F - What does President X say about this?
+text: ninja_M - ...
+text: magician_F - I see. What does Tabone wish to accomplish without the leaders from ANY kingdom supporting him?
+text: ninja_M - We are getting tired of this banter.
+text: magician_F - I guess it doesn't matter. For your information I make a lousy prisoner.
+text: ninja_M - We're not here to take prisoners.
+text: magician_F - !
+fade: True
+text: magician_F - Gahhh...
+inc: 1

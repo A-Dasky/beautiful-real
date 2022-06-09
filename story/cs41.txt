@@ -1,0 +1,20 @@
+locs: elders_house
+positions: 0 160 144 64
+actions
+# Hallway outside with Calomere
+text: darkknight_M - What's this?
+text: ninja_M - Calomere, you've been branded a traitor due to your dealings with Generationals.
+text: ninja_M - We order you to stand down and surrender at once!
+text: darkknight_M - My dealings are to ensure peace.
+text: ninja_M - We require that you remove all weapons and Gems at once.
+text: darkknight_M - I have neither.
+text: ninja_M - For coorporating we shall make your death quick.
+# More ninja guards appear
+text: darkknight_M - (Is it time? Is my destiny ready?)
+text: ninja_M - Execute Calomere.
+# Fade to white
+zone: BLANK 0 0
+sound: flash
+flash: True
+# Update zone
+inc: 1
