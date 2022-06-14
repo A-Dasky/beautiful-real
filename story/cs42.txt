@@ -1,0 +1,5 @@
+locs: elders_house
+positions: 0 160 144 64
+actions
+# CS at castle King, Princess, Bard on top
+text: king_M - Good day.
