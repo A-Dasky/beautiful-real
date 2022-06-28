@@ -1,5 +1,23 @@
 locs: elders_house
 positions: 0 160 144 64
 actions
-# CS at castle King, Princess, Bard on top
-text: king_M - Good day.
+# CS at castle King and Princess speaking
+text: king_M - My dear Evlee. I'm glad you were able to meet our guests.
+text: king_M - Please, tell me what you thought of them.
+text: princess_F - Father, It is hard to cast judgement based on so little information.
+text: king_M - Yes, you are correct. And we must not let that stop us from doing so. Oftentimes first impressions tell us what we do not wish to see later on.
+text: princess_F - Well, Chancellor Leeva seems to weigh other's opinions before adding her own.
+text: king_M - She has always held her opinions close. Very smart and calculating.
+text: princess_F - Prime Minister Tabone reminds me of my brother.
+text: king_M - Yes, he does. I believe you're sensing ambition. Both Rasamus and Tabone sought glory during the war, and I feel both fell short of reaching that when the war ended.
+text: king_M - You must keep an eye on the ambitious ones.
+text: princess_F - (Heh.)
+text: princess_F - Even Rasamus?
+text: king_M - Especially Rasamus.
+text: princess_F - Oh, I um...
+text: king_M - It is okay my dear. Just something to keep in mind.
+text: princess_F - Yes, father.
+text: princess_F - Oh, and the last guest, the advisor Calomere. He seems... sincere.
+text: king_M - Yes, perhaps.
+text: princess_F - Oh, did I misread his intentions?
+text: king_M - Not quiet. Yes he does come across sincere, but also oddly patient.
