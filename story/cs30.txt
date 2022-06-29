@@ -12,7 +12,7 @@ text: samari_M - We are all parting ways in the morning. I have my army ready to
 text: samari_M - I cannot make my move until King Tolen has been disposed and you're sitting on the throne.
 text: bard_M - What of Leeva and President {LEEPPRESIDENT}? 
 text: samari_M - I am already ahead of you and something is in the works.
-text: samari_M - Disposing of {LEEPPRESIDENT} will be easy. He is not popular after failed attempts to tame the boarder.
+text: samari_M - Disposing of {LEEPPRESIDENT} will be easy. He's just a simple mortal and right now he is not popular after failed attempts to tame the boarder.
 text: samari_M - However, Calomere does concern me.
 text: samari_M - They say he is very knowledgeable about magic and military strategy.
 text: bard_M - You are one of the most powerful people in this world and you're concerned with a mortal?

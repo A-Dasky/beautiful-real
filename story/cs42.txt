@@ -21,3 +21,25 @@ text: princess_F - Oh, and the last guest, the advisor Calomere. He seems... sin
 text: king_M - Yes, perhaps.
 text: princess_F - Oh, did I misread his intentions?
 text: king_M - Not quiet. Yes he does come across sincere, but also oddly patient.
+text: king_M - Its rare to see in anyone, especially one not born like me, a Generational.
+text: princess_F - Calomere is not a Generational?
+text: king_M - There is no record of his birth in {GENKINGDOM}. All new Generational births were required to take place there, and were recorded.
+text: king_M - It was a cause for celebration, and news was sent to every kingdom. But the last Generational birth occurred long before the war. 
+text: princess_F - Then is he a Leeper?
+text: king_M - No my dear. It was difficult to see his eyes behind his helmet, but it did not contain the Stain.
+text: king_M - All leepers have the Stain. When light catches a Leeper's eye at the right moment you can see it.
+text: king_M - The center of their eye flashes yellow, just for a split second. Leeva hid hers well.
+text: king_M - And Tabone could care less who was made aware of this fact.
+text: king_M - I rant. Forgive me my dear.
+# Soldier comes to talk to King
+text: - Guard: Forgive me Your Majesty. Prince Rasamus has requested counsel in the Throne Room at once.
+text: king_M - Please inform Prince Rasamus I will arrive shortly.
+text: - Guard: Yes, Your Majesty.
+# Soldier exits
+text: king_M - Hmmm.
+text: princess_F - Father?
+text: king_M - The timing is ... strange. Rasamus has sought me out in the past. A 'Where is he?' and occasional 'I need to speak to him.'. Those times did not come across ... planned. 
+text: princess_F - I don't understand.
+text: king_M - It is probably nothing. Just Rasamus upset after our guests left. He really does not like Leepers.
+fade: True
+inc: 1
