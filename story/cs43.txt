@@ -1,4 +1,40 @@
 locs: elders_house
 positions: 0 160 144 64
 actions
-# CS at castle King and Princess speaking
+# CS at castle King and Rasamus
+text: king_M - Prince Rasamus. What is the urgent matter that you wish to discuss.
+text: bard_M - I have received word that Chancellor Leeva and her advisors were disposed.
+text: king_M - What!? Who would do...
+text: bard_M - Prime Minister Tabone.
+text: king_M - That doesn't make sense. He does not control {GENLAND1}'s army.
+text: bard_M - He is also planning to overthrow President {LEEPPRESIDENT}.
+text: king_M - This is madness. What gave Tabone the impression this was wise? I never figured him to be a fool.
+text: bard_M - He had counsel.
+text: king_M - Who in their right mind would suggest to risk the stability of the world? And for what?
+text: king_M - Neither we nor {GENKINGDOM} will stand for this!
+text: bard_M - Blind to the winds of change, as usual.
+text: king_M - Excuse me?! And what do you know of change? You've lived a sheltered yet privlidged existance.
+text: bard_M - Father, you hid behind these walls since the war. Each year you sent me out I hear from the people.
+text: bard_M - "Thank you, Prince Rasamus." and "You're our hero, Prince Rasamus" and so on.
+text: bard_M - The people have stopped asking for you hundreds of years ago. If it were not for me agreeing to relay their hopes they would not know you are still alive.
+text: king_M - I refuse to tolerate this treason. Prince Rasamus you are hereby confined to your quarters until...
+text: bard_M - Again, you are wrong father. These guards do not answer to you.
+text: king_M - ...
+text: bard_M - I train with them, I go with them on missions to the border. Their desire is my desire.
+text: king_M - And what is that!
+text: bard_M - Glory. You see Tabone will use {GENLAND1} and {GENLAND2} to wage war against {GENKINGDOM}.
+text: bard_M - In the chaos I will secure {GENLAND1} then march on {GENLAND2}. 
+text: king_M - You think you're the first Generational to seek power? You are a poor student of history.
+text: bard_M - I will also secure the lost kingdom of {LOSTKINGDOM}. 
+text: king_M - I was wrong, Tabone is not the fool. You are.
+text: king_M - What do you expect to find there anyways?
+text: bard_M - I expect to create a new line of Generationals. I have heard the tales and know what awaits me.
+text: king_M - I was wrong, you're not a fool, you're mad! I cannot ...
+text: bard_M - Enough of this.
+# kill king
+text: king_M - Gah!!!!!
+# king fades
+text: bard_M - We must secure the kingdom at once. Take care of my sister. Her presence may cause an uprising with those sympathetic with my father.
+text: - Guard: At once, Your Majesty.
+fade: True
+inc: 1

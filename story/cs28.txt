@@ -20,7 +20,7 @@ text: magician_F - King Tolen, I assure you that whatever information you have r
 text: magician_F - If anything our army has diminished in recent years. As your neighbor to the north both of our kingdoms benefit from mutual peace.
 text: king_M - Yes. You are correct.
 text: samari_M - I did not travel all this way to lie. We have increased our standing army. Our land is vast and mostly untamed.
-text: samari_M - President {LEEPPRESIDENT} has requested more troops to defend our land from the beasts at our boarder.
+text: samari_M - President {LEEPPRESIDENT} has requested more troops to defend our land from the beasts at our border.
 text: bard_M - I believe it was tame prior to the Leeper War.
 text: samari_M - You confuse oppression and tame, Prince Rasamus. Generationals that ruled Kavanso limited the use of any magic by it's inhabitants, and creatures.
 text: samari_M - We require magic to flourish so that our inhabitants can live their fullest lives.
