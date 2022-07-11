@@ -1,0 +1,8 @@
+locs: elders_house
+positions: 0 160 144 64
+actions
+# Princess escapes
+# Use Gem sequence to ensure she gets out
+# Run to trees from earlier cut scene
+fade: True
+inc: 1

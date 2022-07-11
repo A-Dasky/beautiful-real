@@ -1,0 +1,24 @@
+locs: elders_house
+positions: 0 160 144 64
+actions
+# CS at castle Princess
+text: - (BOOM)
+text: princess_F - !
+text: princess_F - (What was that?)
+text: princess_F - (Father seemed worried. I... What should I do?)
+# Lock Door
+# Maybe a sound? or text: - *Click*
+text: princess_F - (I'll just wait here for Fath...)
+text: - Guard: Princess Evlee, open up. The king has requested you come with us.
+text: princess_F - Please inform my father that I need a moment.
+text: - Guard: King Rasamus insists we escourt you at once.
+text: princess_F - (King Rasamus ...)
+text: princess_F - Where is my father.
+text: - Guard: Princess Evlee if we must we'll break this door and bring you to King Rasamus
+# Break through door
+text: princess_F - I ... I don't want to hurt you!
+text: - Guard: Haha! We'll see Princess.
+# Fight guards
+text: princess_F - (I need to escape)
+fade: True
+inc: 1
