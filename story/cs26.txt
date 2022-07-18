@@ -56,5 +56,6 @@ text: warrior_M - Four seasons. Do we have ourselves a deal?
 text: captain_M - Looks like me be getting a new crew.
 text: - [ Captain finishes his drink ]
 text: captain_M - Me boats in the dock. Meet there when ye be ready to go.
+text: captain_M - And me name is Capt'n Puuniterchipe, but most just call me Capt'n.
 fade: True
 inc: 1

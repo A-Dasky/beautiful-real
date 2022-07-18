@@ -1,0 +1,29 @@
+locs: elders_house
+positions: 0 160 144 64
+actions
+# Go to Nottershem, Pub meet Pirate
+text: princess_F - Excuse me, sir, can I...
+text: captain_M - Sir?! No need for formalities here, ma'am. I just be a humble seafarer. Friends call me Capt'n.
+text: princess_F - I uh... I am a maiden from Castle Addinral.
+text: captain_M - Aye, maiden... does this maiden come with a name?
+text: princess_F - Pr... er... I uh...
+text: captain_M - Forget ye name? Terrible fate.
+text: princess_F - No it's not that. I just need to leave here, at once. Maybe to {GENKINGDOM}?
+text: captain_M - To {GENKINGDOM} right now, aye? What be the rush?
+text: princess_F - I cannot say.
+text: captain_M - Aye, ye can. Ye choose not to.
+text: captain_M - And yer dress, no dress me seen a maiden wear. Ye steal it? Ye be a theif?!
+text: princess_F - No?! How dare you!
+text: captain_M - Lass, there be a bit you ain't sayin'. Not to mention roamin' the sea ain't free.
+text: princess_F - What do you charge?
+text: captain_M - To {GENKINGDOM}... 100,000 gold.
+text: princess_F - That seems high.
+text: captain_M - Lass, I need to find me a crew, ye come in here short notice, and ...
+# Guard Enters
+text: - Guard: Attention residents of Nottershem. And individual who owns a vessel is ordered to empty their contents immediately. All ships are now belong to the Kingdom of Addinral.
+# Guard Exits
+text: captain_M - Lass, it seems the winds be blowin' in yer favor. Meet me at the dock, and hurry!
+text: princess_F - Thank you. My name is Evlee.
+text: captain_M - Aye, E it is!
+fade: True
+inc: 1

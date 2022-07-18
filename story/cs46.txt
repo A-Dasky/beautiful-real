@@ -2,6 +2,18 @@ locs: elders_house
 positions: 0 160 144 64
 actions
 # The scene
-
+text: princess_F - There's ... There's nowhere for me to go...
+text: - Guard: She's over here!
+# lots of guards appear
+text: - Guard: We have King Rasamus orders. Take her out.
+text: princess_F - (Is this... my destiny?)
+# Guards fire
+# Flash of light LIGHT hero from the right side, stands in front of princess
+# Big MUSIC, BIG MAGIC, Last 10+ seconds
+text: princess_F - Wha... Who... who are you?
+text: light_E - ...
+# Flash light runs away
+text: princess_F - Wait I...
+text: princess_F - I need to flee and get to Nottershem.
 fade: True
 inc: 1

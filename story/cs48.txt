@@ -1,0 +1,22 @@
+locs: elders_house
+positions: 0 160 144 64
+actions
+# Run away with Cap
+text: princess_F - Sir... I mean Capt'n. I am ready to depart.
+text: captain_M - Who be yer friends?
+text: princess_F - Friends?
+# Guards appear
+text: - Guard: We order you to stop at once. 
+text: - Guard: Wait... are you...
+text: captain_M - Capt'n Puuniterchipe? Famous swashbuckler of the four kingdoms? Hero of of the Sea? Master of the waves? Commander of ... 
+text: - Guard: Quiet you!
+text: - Guard: That's her! There's a large bounty on her head for what happened at Castle Addinral.
+text: captain_M - This lass? E? She be me cook.
+text: - Guard: Step aside pirate.
+text: captain_M - Pirate?!
+text: princess_F - They're after me. Go now while you can.
+text: captain_M - Can't be doing that lass. We in this together now.
+# Fight guards
+text: captain_M - Lets be off.
+fade: True
+inc: 1
