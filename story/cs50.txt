@@ -1,0 +1,65 @@
+locs: elders_house
+positions: 0 160 144 64
+actions
+# Group at Palace
+text: - King Beausteau: I was told we had special visitors to {GENKINGDOM}.
+text: - Guard: A strange series of events have brought these travelers here.
+text: - King Beausteau: Strange indeed. We have not had visitors since before the Leeper War.
+text: warrior_M - Sir. We have come to learn more about this.
+# show gem
+text: - King Beausteau: (Stares at Gem.)
+text: - King Beausteau: What have your travels told you of this?
+text: warrior_M - We were told it's a soul Gem.
+text: - King Beausteau: You are correct. It has been several hundred years since the last soul Gem was seen.
+text: - King Beausteau: We thought that all the lost Gems were recovered.
+text: ranger_M - Pardon me. Lost Gems?
+text: - King Beausteau: We have always kept a ledger tracking the birth of each Generational.
+text: - King Beausteau: If there are too many Generationals then conflicts arise due to scarcity of resources.
+text: - King Beausteau: However, if there are not enough people then critical tasks cannot be accomplished.
+text: - King Beausteau: That is why we never imposed limits to mortals.
+text: - King Beausteau: Which is also why it is important to track when and how a Generational departs.
+text: - King Beausteau: Those that meet their ends in an unexpected manner, say an accident, do leave behind a soul Gem.
+text: - King Beausteau: The same is generally true for those that passed during combat, although a few rare exceptions have occurred.
+text: - King Beausteau: Soul Gems are created only when an immense amount of emotion and energy are present right before a Generational's departing.
+text: warrior_M - I would think that the horrors of war bring forward a lot of emotional energy.
+text: - King Beausteau: Of course.
+text: - King Beausteau: But Leepers are digusting abominations, and when they absorb the essense from a Generational they retain their immortality and memories.
+text: - King Beausteau: However, to become a Leeper you must use unholy magic, which means they cannot create soul Gems of their own when they die.
+text: - King Beausteau: And the memories of all Generationals absorbed by them are lost as well.
+text: monk_F - Whoa...
+text: - King Beausteau: I cannot hide my disdain for Leepers. Most just sought power.
+text: - King Beausteau: Regardless. You have returned a soul Gem to us and we thank you.
+text: warrior_M - Sir, forgive me, we did not make this journey to return the soul Gem to {GENKINGDOM}.
+text: - King Beausteau: All soul Gems belong here. Its how we honor those that are not with us.
+text: - King Beausteau: There are no more First Generationals with us.
+text: - King Beausteau: King Tolen of {STARTINGKINGDOM} and I are the last of the Second Generationals. There are some Forth and Fifth Generationals left.
+text: - King Beausteau: But like the First Generationals, the remaining Third Generationals perished during the war.
+text: - King Beausteau: We have a duty to honor our lost.
+text: - King Beausteau: Why must you hold onto the soul Gem for yourself?
+text: warrior_M - I... I don't want to prevent you from honoring your departed. There's just... I heard something, saw something.
+text: - King Beausteau: You heard and saw something?
+text: warrior_M - Holding the soul Gem I heard voices. Those voices were later said to be of Princess Selell.
+text: - King Beausteau: Princess Selell, of {STARTINGKINGDOM}? King Tolen's daughter?
+text: warrior_M - She was talking with a knight, I did not get a name. They...
+text: - King Beausteau: Forgive me. How... How is it possible you were able to wield a soul Gem?
+text: - King Beausteau: That is impossible... 
+text: warrior_M - Sir, I know what I saw and heard.
+text: - King Beausteau: I believe you. Not many know of Princess Selell. She was born away from {GENKINGDOM} and passed before ever coming here. King Tolen rarely speaks of her.
+text: - King Beausteau: It's just...
+text: - King Beausteau: ...
+text: - King Beausteau: Are your parents Generationals?
+text: warrior_M - No, they passed when I was an infant from the Sickness.
+text: - King Beausteau: What of your grandparents? How far back can you trace your ancestry?
+text: warrior_M - Only to my parents. From what I was told they never mentioned any other family, just that they had traveled a long way.
+text: - King Beausteau: Hmmmm.
+text: - King Beausteau: I only ever saw First Generationals clearly see and hear memories trapped in soul Gems. 
+text: - King Beausteau: I may be wrong but the answers we both seek might be at the Soul Tomb. It is not located in the city, and the journey there is dangerous.
+text: monk_F - Is that where you keep the other soul Gems?!
+text: - King Beausteau: No. The soul Gems are kept in a memorial garden besides the palace. 
+text: - King Beausteau: The Soul Tomb is used to enhanse our ability to see and hear what lays inside of soul Gems. I think it can do the same for you.
+text: - King Beausteau: Go to the Soul Tomb and learn what you can. After, as part of us agreeing to let you use the Soul Tomb, you hand over that soul Gem.
+text: monk_F - ( ! )
+text: warrior_M - That is only fair.
+text: - King Beausteau: The Soul Tomb is located to the west, through Frongr's Pass. There are many powerful creatures along the way. It's best to be well prepared.
+fade: True
+inc: 1

@@ -1,0 +1,15 @@
+locs: elders_house
+positions: 0 160 144 64
+actions
+# Get to ancient land
+text: - Guard: We have arrived in {GENKINGDOM}. Please proceed to the palace when you are ready.
+# Guards disapear
+text: ranger_M - Hmmmm. We probably should head straight for the...
+text: monk_F - Let's explore! This is sooo exciting!
+text: ranger_M - Right.
+text: warrior_M - We have a little time. Let's look around.
+# Look around. On approach to Palace
+text: warrior_M - We're all set.
+text: - Guard: Okay, come with us.
+fade: True
+inc: 1
