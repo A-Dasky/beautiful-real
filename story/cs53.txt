@@ -1,0 +1,15 @@
+locs: elders_house
+positions: 0 160 144 64
+actions
+# Back to Temple
+text: ranger_M - Is everything okay?
+text: monk_F - Did it happen again!?
+text: warrior_M - It did, yeah... But I am still no closer to finding out why this is happening.
+text: monk_F - Go again!
+# Move off / go on spot again
+text: warrior_M - Nothing. I have only ever seen each memory once.
+text: ranger_M - Hmmmm. I think we need to speak with King Beausteau again.
+text: warrior_M - Okay, let's go.
+# Exit cave
+fade: True
+inc: 1

@@ -1,0 +1,35 @@
+locs: elders_house
+positions: 0 160 144 64
+actions
+# 
+text: monk_F - Whoa! This place is huge!
+text: ranger_M - Yes. Yes it is. The Soul Tomb is also very old. I wonder the last time anyone was here.
+text: warrior_M - I ... I don't know.
+text: ranger_M - Hmmmm. We should look for a device that could help enhanse your ability to use the soul Gem.
+text: warrior_M - You're right, lets go.
+# Find device
+text: ranger_M - Wait.
+text: monk_F - Wait?! For what?
+text: ranger_M - The pattern on the floor. Kralean, stand in the center.
+text: warrior_M - Okay.
+# Walk to the center fade to CS
+fade: True
+# 
+text: - Older Male Voice: Princess Selell, these are your personal guards.
+text: - Princess Selell: Yes, I see.
+text: - Older Male Voice: During the long peace three royal guards were assigned to King Talon. However, he's ordered that number doubled because of the Leepers.
+text: - Princess Selell: Yes, I heard. But, some of them seem quiet young. I thought the royal guards were like ...
+text: - Older Male Voice: Princess, during peace the royal guard consists of Generationals, like you and me. However, most of the expereinced fighters are off at war.
+text: - Older Male Voice: Each of these men are well trained and have vowed an oath to protect you.
+text: - Princess Selell: This one here, he seems to be younger than the rest, and not much older than I am.
+text: - Older Male Voice: Guard, step forward.
+text: - Male Voice: Sir, yes sir.
+text: - Older Male Voice: You are correct Princess, he is young. Infact, he is the youngest royal guard we've ever had.
+text: - Princess Selell: Oh... Um...
+text: - Older Male Voice: There is nothing to be concerned about Princess. His youth disguises mastery of the sword and unmatched bravery.
+text: - Princess Selell: Is that so...
+text: - Older Male Voice: Guard, you may address Princess Selell when spoken to.
+text: - Male Voice: Sir, yes sir. Princess, I vow to defend your life with each breath I take.
+text: - Princess Selell: Is that so... Oh brave knight.
+fade: True
+inc: 1

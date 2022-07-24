@@ -1,0 +1,8 @@
+locs: elders_house
+positions: 0 160 144 64
+actions
+# Frongr's Pass
+# Dungeon, some boss battle at the end
+# Proceed to Soul Tomb
+fade: True
+inc: 1
