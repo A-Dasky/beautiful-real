@@ -1,0 +1,13 @@
+locs: elders_house
+positions: 0 160 144 64
+actions
+# Back to Castle
+text: - King Beausteau: That is very interesting.
+text: warrior_M - Do the soul Gems loose energy?
+text: - King Beausteau: No. First Generationals could see the same memory time and time again.
+
+
+
+
+fade: True
+inc: 1
