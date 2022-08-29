@@ -3,11 +3,15 @@ positions: 0 160 144 64
 actions
 # Back to Castle
 text: - King Beausteau: That is very interesting.
-text: warrior_M - Do the soul Gems loose energy?
+text: warrior_M - Do the soul Gems loose energy? I have never seen a vision more than once.
 text: - King Beausteau: No. First Generationals could see the same memory time and time again.
-
-
-
-
-fade: True
+text: - King Beausteau: Well, it looks like the visit to the Soul Tomb has left us with more questions than answers.
+text: - Guard: Your Highness. We have guests that bring disturbing news of {STARTINGKINGDOM}.
+text: - King Beausteau: Show them in. I am sorry but I must ask you to leave now. And please uphold your end of the bargin and deliver the Soul Gem to the memorial gardens.
+# Begin to leave, princess enters
+text: warrior_M - P... Princess Evlee!?
+text: princess_F - ( ! )
+zone: BLANK 0 0
+sound: flash
+flash: True
 inc: 1

@@ -7,10 +7,13 @@ sound: pickaxe
 fade: True
 music: Sadness
 text: - Male Voice: Let go of her!
+sound: flash
 text: - Another Voice: The weak are always demanding that the mighty follow their orders. However, you are as useless as a stone knight. You could join us, be free of mortality. Yet you guard ... her.
+sound: flash
 text: warrior_M - Hello? Who's there? Can you hear me?
 text: - Female Voice: Let him go. He's not part of our war.
 text: - Second Voice: Keep quiet.
+sound: flash
 text: - First Voice: Free me if you dare.
 text: - Second Voice: Hrmph... You are a waste of my time. Get rid of him.
 text: - First Voice: Argh..

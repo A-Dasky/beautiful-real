@@ -1,0 +1,66 @@
+locs: elders_house
+positions: 0 160 144 64
+actions
+# Back to Castle
+text: soldier_M - Selell, you must go. I can hold them off long enough for you to make your way to safety.
+text: princess_O - I cannot leave you! I... I can't. This world can be cruel, but I do not wish to live in a world that is also lonely.
+text: soldier_M - You must go! I am fufilling my destiny. This is my duty. I will give my life to protect you. Now and forever.
+text: soldier_M - Nothing will honor me more than someday, lifetimes from now, being but a wisper on your lips. Go now!
+# Princess leaves/hides behind rock
+# 
+text: samari_M - There you are... And where is the Princess?
+text: soldier_M - ...
+text: samari_M - You defend them! Why?
+text: soldier_M - It is my duty.
+text: samari_M - You speak of duty and honor, and assume we are void of those traits.
+text: soldier_M - Your kind has pillaged towns and innocent lives.
+text: samari_M - Innocent?! There was nothing innocent about the Generationals we've claimed.
+text: samari_M - They have designed a world where their power is absolute. Their authority carries the weight of the gods.
+text: samari_M - They use our kind as nothing more than worker ants, to build their monuments and shines to further the idea they should be worshiped.
+text: samari_M - Envy amoung them has led to wars, and who suffers during those wars? You know the answer, even if you refuse to say it.
+text: soldier_M - ...
+text: samari_M - We must end their regin. I've seen you fight, you're strong and fast, but you'll never reach your true potential in this state.
+text: samari_M - Join our side, and help rule the new world with us. Now that we're immortal we eliminated the Generational's one primary advantage over us.
+text: soldier_M - The world you described is one where the Generational rule is replaced with Leeper rule.
+text: samari_M - Hrmph. Leeper. You say it as though it is an insult to my ears. If our rule was not meant to be why does nature allow it?
+text: soldier_M - Dark magic is not nature, it is the opposite. It is the corruption of the natural order. 
+text: samari_M - Haha, you speak so surely of something you know nothing about. Magic in this world is neither corrupt or natural.
+text: samari_M - What the First Generationals have hid, even from their own children, is that this is a false world. Others who have claimed leepers have learned this too.
+text: soldier_M - False... world? I am getting tired of your lies. Fight me!
+text: samari_M - I do not understand why you're in a hurry to end your life.
+text: soldier_M - I plan to end yours.
+text: samari_M - Doubtful. Especially with my guards besides me.
+# Find princess!
+text: princess_O - Ah!!!
+text: soldier_M - Selell!
+text: samari_M - Bring her to me.
+text: soldier_M - Let go of her!
+text: samari_M - Or what?!
+# Small energy beam to soldier, bring her to him
+text: princess_O - My brave knight! Stop, please I beg you!
+text: samari_M - Princess Selell. It's a pleasure to meet you. Do not worry about your knight, he's simply expereinced power, true power, for the first time.
+text: princess_O - What do you want!
+text: samari_M - From you? Nothing. From your father? Everything.
+text: princess_O - He will never give into your demands. 
+text: samari_M - That is where you are wrong. King Tolen must continue to project authority over this kingdom. He cannot do that if he cannot protect his own daughter.
+text: princess_O - I would gladly sacrifice my life if it meant his rule over yours. Your kind brings destruction everywhere you go.
+text: samari_M - We are bringing change, a return to normal. A world without Generationals. A return to our roots, the world we came from.
+text: princess_O - What are you talking about?! Where we came from? We are all of this world.
+text: samari_M - Knight, are you up?
+text: soldier_M - Ugh...
+text: samari_M - Princess, you will never believe what I have to say, so I will spare us both. I have accomplished what I wanted to here and I am needed on the front.
+text: samari_M - What say you Knight, I have here a force Gem. With it you can obtain immortality. Rid the world of this Generational and join us.
+text: samari_M - You can have a place at my side. When the fighting is over you'll help rule the new world.
+text: soldier_M - Never! I'll never betray Princess Selell. Let the Princess go and maybe I'll let you live.
+text: samari_M - The weak are always demanding that the mighty follow their orders. However, you are as useless as a stone knight. You could join us, be free of mortality. Yet you guard ... her.
+text: princess_O - Why bring him into this? He is just a brave and foolish knight.
+text: soldier_M - Princess...
+text: princess_O - Let him go. He's not part of our war.
+text: samari_M - No. He is much apart of this war as you or I now.
+text: samari_M - I do not have time to see this through. Guard, see to it that this knight uses a force Gem on her.
+text: - Guard: What if he refuses.
+text: samari_M - Kill them both.
+zone: BLANK 0 0
+sound: flash
+flash: True
+inc: 1
