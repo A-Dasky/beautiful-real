@@ -1,0 +1,32 @@
+locs: elders_house
+positions: 0 160 144 64
+actions
+# Back to Castle
+text: - King Beausteau: I... I don't believe it.
+text: - King Beausteau: Please, everyone stay until all parties have said what needs be saying.
+text: princess_F - Oh... Please forgive forgive me King Beausteau. I do not know what happened.
+text: - King Beausteau: It is okay, from what I observed you experienced a vision, due to the soul Gem.
+text: - King Beausteau: Visitor from Addinral, what urgent news do you bring?
+text: princess_F - King Beausteau, I am Princess Evlee of Addinral. Daughter of King Tolen.
+text: - King Beausteau: I know King Tolen well, we have lived and fought wars together throughout many lifetimes.
+text: princess_F - I am also the sister of Prince Rasamus.
+text: - King Beausteau: I have met the young prince too, near the end of the war.
+text: princess_F - It brings me great displeasure delivering this news. Prince Rasamus has deposed King Tolen and claimed the thrown of Addinral for himself.
+text: - King Beausteau: That goes against the treaty ending the war. What madness possessed him to act?
+text: princess_F - I am not certain, we hosted dignateries from {LEEPERKINGDOM} and {LEEPERKINGDOM2}.
+text: - King Beausteau: Tabone... Once a snake...
+text: princess_F - He was in attendance. 
+text: - King Beausteau: How could Prince Rasamus align himself with a Leeper? What a fool.
+text: captain_M - Pardon I, there be a problem.
+text: - King Beausteau: Speak sailor.
+text: captain_M - ( Eh.. Cap..) We slipped their waters fair enough, but there's no mistaken where we were headin and the wind.
+text: princess_F - Rasamus wants me eliminated.
+text: - King Beausteau: Of course. King Tolen was fair, and you represent that fairness and mortal. Rasamus power grab is everything people fear.
+text: - King Beausteau: But we will not war with Addinral to put you on the thrown.
+text: princess_F - I do not seek that.
+text: - King Beausteau: I must be mistaken then... What urgent news do you bring.
+text: captain_M - Addinral's fleet be preparin' for voyage. Only one place they be goin'.
+# Boom
+text: - Guard: Your Highness! A fleet is in the bay, preparing to invade. Their ships carry the Addinral flag!
+fade: True
+inc: 1

@@ -1,0 +1,13 @@
+locs: elders_house
+positions: 0 160 144 64
+actions
+# Ship with Rasamus
+text: - Guard: We have begun our attack on {GENKINGDOM}.
+text: bard_M - What news from {LEEPERKINGDOM}.
+text: - Guard: We received word that their ships remain in port. President {PRESIDENT} remains in power.
+text: bard_M - ... Leave me.
+text: - Guard: Yes, your Highness.
+# Guard leaves
+text: bard_M - What games are you playing Tabone...
+fade: True
+inc: 1
